@@ -1,0 +1,2718 @@
+2022-03-16 13:13:21,111:chatbotapi:OCR section
+2022-03-16 13:13:21,111:chatbotapi:sample1.png
+2022-03-16 13:13:21,111:chatbotapi:Image received successfully
+2022-03-16 13:13:21,315:chatbotapi:OCR processed for app-image
+2022-03-16 13:13:29,299:chatbotapi:OCR section
+2022-03-16 13:13:29,299:chatbotapi:sample.png
+2022-03-16 13:13:29,299:chatbotapi:Image received successfully
+2022-03-16 13:13:29,502:chatbotapi:OCR processed for app-image
+2022-03-16 13:13:54,536:chatbotapi:Allowed file types are .PNG or .JPEG/.JPG
+2022-03-16 13:18:59,744:chatbotapi:Sorry, allowed file types are .PNG or .JPEG/.JPG
+2022-03-16 13:19:44,794:chatbotapi:Received whatsapp-image data
+2022-03-16 13:20:04,046:chatbotapi:Received whatsapp-image data
+2022-03-16 13:20:22,546:chatbotapi:Received whatsapp-image data
+2022-03-16 13:20:22,546:chatbotapi:Received irrelevant file content
+2022-03-16 13:21:45,303:chatbotapi:Received whatsapp-image data
+2022-03-16 13:21:45,303:chatbotapi:Whatsapp-Image section
+2022-03-16 13:23:27,292:chatbotapi:Received whatsapp-image data
+2022-03-16 13:23:27,292:chatbotapi:Whatsapp-Image section
+2022-03-17 05:32:30,352:chatbotapi:Received whatsapp-image data
+2022-03-17 05:32:31,868:chatbotapi:Received whatsapp-image data
+2022-03-17 05:32:31,868:chatbotapi:Whatsapp-Image section
+2022-03-17 05:33:34,574:chatbotapi:Received whatsapp-image data
+2022-03-17 05:33:34,574:chatbotapi:Received irrelevant file content
+2022-03-17 05:44:46,295:chatbotapi:Received whatsapp-image data
+2022-03-17 05:44:46,295:chatbotapi:Received irrelevant file content
+2022-03-17 05:46:18,818:chatbotapi:Received whatsapp-image data
+2022-03-17 05:46:18,818:chatbotapi:Received irrelevant file content
+2022-03-17 05:46:33,646:chatbotapi:Received whatsapp-image data
+2022-03-17 05:49:30,340:chatbotapi:Received whatsapp-image data
+2022-03-17 07:50:55,966:chatbotapi:Custom app text message received
+2022-03-17 07:51:03,138:chatbotapi:Custom app text message received
+2022-03-17 07:51:08,200:chatbotapi:Custom app text message received
+2022-03-17 07:51:10,513:chatbotapi:Custom app text message received
+2022-03-17 07:51:15,042:chatbotapi:Custom app text message received
+2022-03-17 07:51:19,454:chatbotapi:Custom app text message received
+2022-03-17 07:51:45,470:chatbotapi:Custom app text message received
+2022-03-17 07:51:57,923:chatbotapi:Custom app text message received
+2022-03-17 07:52:27,615:chatbotapi:Custom app text message received
+2022-03-17 07:52:31,849:chatbotapi:Custom app text message received
+2022-03-17 07:53:30,306:chatbotapi:Custom app text message received
+2022-03-17 07:54:31,784:chatbotapi:Custom app text message received
+2022-03-17 15:10:21,621:chatbotapi:Custom app text message received
+2022-03-17 15:10:25,964:chatbotapi:Custom app text message received
+2022-03-17 15:10:28,652:chatbotapi:Custom app text message received
+2022-03-17 15:10:31,714:chatbotapi:Custom app text message received
+2022-03-17 15:10:33,589:chatbotapi:Custom app text message received
+2022-03-17 15:10:36,211:chatbotapi:Custom app text message received
+2022-03-17 15:11:07,014:chatbotapi:Custom app text message received
+2022-03-17 15:11:34,264:chatbotapi:Custom app text message received
+2022-03-17 15:11:45,954:chatbotapi:Custom app text message received
+2022-03-17 15:12:01,282:chatbotapi:Custom app text message received
+2022-03-17 15:12:03,876:chatbotapi:Custom app text message received
+2022-03-17 15:12:46,678:chatbotapi:Custom app text message received
+2022-03-17 15:12:49,240:chatbotapi:Custom app text message received
+2022-03-17 15:12:52,037:chatbotapi:Custom app text message received
+2022-03-17 15:13:10,162:chatbotapi:Custom app text message received
+2022-03-17 15:13:17,662:chatbotapi:Custom app text message received
+2022-03-17 15:13:20,256:chatbotapi:Custom app text message received
+2022-03-17 15:13:30,818:chatbotapi:Custom app text message received
+2022-03-17 15:13:54,868:chatbotapi:Custom app text message received
+2022-03-17 15:14:06,665:chatbotapi:Custom app text message received
+2022-03-18 08:27:25,389:chatbotapi:Custom app text message received
+2022-03-18 08:27:27,092:chatbotapi:Custom app text message received
+2022-03-18 08:27:27,404:chatbotapi:Custom app text message received
+2022-03-18 08:27:29,108:chatbotapi:Custom app text message received
+2022-03-18 08:27:31,014:chatbotapi:Custom app text message received
+2022-03-18 08:27:31,748:chatbotapi:Custom app text message received
+2022-03-18 08:27:47,404:chatbotapi:Custom app text message received
+2022-03-18 08:28:45,941:chatbotapi:Custom app text message received
+2022-03-18 08:29:15,103:chatbotapi:Custom app text message received
+2022-03-18 08:29:26,464:chatbotapi:Custom app text message received
+2022-03-18 08:29:56,298:chatbotapi:Custom app text message received
+2022-03-18 08:30:41,266:chatbotapi:Custom app text message received
+2022-03-18 08:30:43,001:chatbotapi:Custom app text message received
+2022-03-18 08:30:47,907:chatbotapi:Custom app text message received
+2022-03-18 08:30:58,516:chatbotapi:Custom app text message received
+2022-03-18 08:46:45,455:chatbotapi:Custom app text message received
+2022-03-18 08:47:17,520:chatbotapi:Custom app text message received
+2022-03-18 08:47:51,442:chatbotapi:Custom app text message received
+2022-03-18 08:48:06,379:chatbotapi:Custom app text message received
+2022-03-18 08:48:06,864:chatbotapi:Custom app text message received
+2022-03-18 08:48:34,025:chatbotapi:Custom app text message received
+2022-03-18 08:48:35,322:chatbotapi:Custom app text message received
+2022-03-18 08:49:08,353:chatbotapi:Custom app text message received
+2022-03-18 08:49:10,009:chatbotapi:Custom app text message received
+2022-03-18 08:49:11,650:chatbotapi:Custom app text message received
+2022-03-18 08:49:55,890:chatbotapi:Custom app text message received
+2022-03-18 08:50:29,439:chatbotapi:Custom app text message received
+2022-04-12 06:17:29,110:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 245, in error_upload
+    error_data = error_data['data']
+TypeError: string indices must be integers
+2022-04-12 06:17:44,112:chatbotapi:No file part in the request
+2022-04-12 06:17:53,143:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 245, in error_upload
+    error_data = error_data['data']
+TypeError: string indices must be integers
+2022-04-12 06:18:21,899:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 245, in error_upload
+    error_data = error_data['data']
+TypeError: string indices must be integers
+2022-04-12 06:18:23,618:chatbotapi:Custom app text message received
+2022-04-12 06:20:00,455:chatbotapi:OCR section
+2022-04-12 06:20:00,455:chatbotapi:sample.png
+2022-04-12 06:20:00,455:chatbotapi:Image received successfully
+2022-04-12 06:20:00,705:chatbotapi:Processed OCR for received app-image sample.png
+2022-04-12 06:21:25,155:chatbotapi:Custom app text message received
+2022-04-12 06:23:44,074:chatbotapi:Custom app text message received
+2022-04-12 06:30:53,233:chatbotapi:Custom app text message received
+2022-04-12 06:33:23,473:chatbotapi:Custom app text message received
+2022-04-12 06:33:42,525:chatbotapi:Custom app text message received
+2022-04-12 06:52:05,300:chatbotapi:Custom app text message received
+2022-04-12 06:56:26,704:chatbotapi:No file part in the request
+2022-04-12 06:57:44,459:chatbotapi:No file part in the request
+2022-04-12 06:59:00,159:chatbotapi:No file part in the request
+2022-04-12 06:59:38,175:chatbotapi:OCR section
+2022-04-12 06:59:38,175:chatbotapi:sample.png
+2022-04-12 06:59:38,175:chatbotapi:Image received successfully
+2022-04-12 06:59:38,378:chatbotapi:Processed OCR for received app-image sample.png
+2022-04-12 06:59:51,132:chatbotapi:OCR section
+2022-04-12 06:59:51,132:chatbotapi:sample.png
+2022-04-12 06:59:51,132:chatbotapi:Image received successfully
+2022-04-12 06:59:51,335:chatbotapi:Processed OCR for received app-image sample.png
+2022-04-12 07:00:02,579:chatbotapi:Custom app text message received
+2022-04-12 07:01:12,273:chatbotapi:No file part in the request
+2022-04-18 05:23:48,196:chatbotapi:No file part in the request
+2022-04-18 05:25:34,655:chatbotapi:OCR section
+2022-04-18 05:25:34,655:chatbotapi:image.jpg
+2022-04-18 05:25:34,655:chatbotapi:Image received successfully
+2022-04-18 05:25:35,062:chatbotapi:Processed OCR for received app-image image.jpg
+2022-04-18 12:55:18,127:chatbotapi:OCR section
+2022-04-18 12:55:18,127:chatbotapi:image.jpg
+2022-04-18 12:55:18,127:chatbotapi:Image received successfully
+2022-04-18 12:55:18,533:chatbotapi:Processed OCR for received app-image image.jpg
+2022-04-19 03:40:28,979:chatbotapi:OCR section
+2022-04-19 03:40:28,995:chatbotapi:image.jpg
+2022-04-19 03:40:28,995:chatbotapi:Image received successfully
+2022-04-19 03:40:29,385:chatbotapi:Processed OCR for received app-image image.jpg
+2022-04-19 03:43:24,106:chatbotapi:OCR section
+2022-04-19 03:43:24,106:chatbotapi:541326.jpg-1650339777600.jpg
+2022-04-19 03:43:24,106:chatbotapi:Image received successfully
+2022-04-19 03:43:24,496:chatbotapi:Processed OCR for received app-image 541326.jpg-1650339777600.jpg
+2022-04-19 03:43:43,567:chatbotapi:OCR section
+2022-04-19 03:43:43,567:chatbotapi:dewa.jpg-1650339826779.jpg
+2022-04-19 03:43:43,567:chatbotapi:Image received successfully
+2022-04-19 03:43:43,754:chatbotapi:Processed OCR for received app-image dewa.jpg-1650339826779.jpg
+2022-04-19 03:44:06,993:chatbotapi:No file part in the request
+2022-04-19 03:45:06,198:chatbotapi:No file part in the request
+2022-04-19 03:46:36,659:chatbotapi:Custom app text message received
+2022-04-19 03:46:54,477:chatbotapi:OCR section
+2022-04-19 03:46:54,477:chatbotapi:screenshot-17.png-1650340016850.png
+2022-04-19 03:46:54,477:chatbotapi:Image received successfully
+2022-04-19 03:46:54,758:chatbotapi:Processed OCR for received app-image screenshot-17.png-1650340016850.png
+2022-04-19 03:46:55,742:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 04:06:26,616:chatbotapi:Custom app text message received
+2022-04-19 04:32:46,923:chatbotapi:OCR section
+2022-04-19 04:32:46,923:chatbotapi:screenshot-17.png-1650342763235.png
+2022-04-19 04:32:46,923:chatbotapi:Image received successfully
+2022-04-19 04:32:47,204:chatbotapi:Processed OCR for received app-image screenshot-17.png-1650342763235.png
+2022-04-19 04:32:48,985:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 04:35:52,440:chatbotapi:OCR section
+2022-04-19 04:35:52,440:chatbotapi:wallpaperdog-10825752.jpg-1650342929727.jpg
+2022-04-19 04:35:52,440:chatbotapi:Image received successfully
+2022-04-19 04:35:53,034:chatbotapi:Processed OCR for received app-image wallpaperdog-10825752.jpg-1650342929727.jpg
+2022-04-19 04:37:13,887:chatbotapi:OCR section
+2022-04-19 04:37:13,902:chatbotapi:221798.jpg-1650343035783.jpg
+2022-04-19 04:37:13,902:chatbotapi:Image received successfully
+2022-04-19 04:37:14,152:chatbotapi:Processed OCR for received app-image 221798.jpg-1650343035783.jpg
+2022-04-19 04:37:31,356:chatbotapi:OCR section
+2022-04-19 04:37:31,356:chatbotapi:2990156.jpg-1650343053650.jpg
+2022-04-19 04:37:31,356:chatbotapi:Image received successfully
+2022-04-19 04:37:31,793:chatbotapi:Processed OCR for received app-image 2990156.jpg-1650343053650.jpg
+2022-04-19 04:39:32,440:chatbotapi:OCR section
+2022-04-19 04:39:32,440:chatbotapi:path.png-1650343175427.png
+2022-04-19 04:39:32,440:chatbotapi:Image received successfully
+2022-04-19 04:39:32,627:chatbotapi:Processed OCR for received app-image path.png-1650343175427.png
+2022-04-19 04:39:32,627:chatbotapi:No content in image
+2022-04-19 04:40:24,178:chatbotapi:OCR section
+2022-04-19 04:40:24,178:chatbotapi:541326.jpg-1650343226178.jpg
+2022-04-19 04:40:24,178:chatbotapi:Image received successfully
+2022-04-19 04:40:24,553:chatbotapi:Processed OCR for received app-image 541326.jpg-1650343226178.jpg
+2022-04-19 04:46:04,303:chatbotapi:OCR section
+2022-04-19 04:46:04,303:chatbotapi:screenshot-17.png-1650343560451.png
+2022-04-19 04:46:04,303:chatbotapi:Image received successfully
+2022-04-19 04:46:04,600:chatbotapi:Processed OCR for received app-image screenshot-17.png-1650343560451.png
+2022-04-19 04:46:06,413:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 04:52:14,899:chatbotapi:OCR section
+2022-04-19 04:52:14,899:chatbotapi:screenshot-18.png-1650343931404.png
+2022-04-19 04:52:14,899:chatbotapi:Image received successfully
+2022-04-19 04:52:15,181:chatbotapi:Processed OCR for received app-image screenshot-18.png-1650343931404.png
+2022-04-19 04:52:16,603:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 04:57:23,165:chatbotapi:OCR section
+2022-04-19 04:57:23,165:chatbotapi:screenshot-2.png-1650344246047.png
+2022-04-19 04:57:23,165:chatbotapi:Image received successfully
+2022-04-19 04:57:23,446:chatbotapi:Processed OCR for received app-image screenshot-2.png-1650344246047.png
+2022-04-19 04:57:39,540:chatbotapi:OCR section
+2022-04-19 04:57:39,540:chatbotapi:screenshot-17.png-1650344262647.png
+2022-04-19 04:57:39,540:chatbotapi:Image received successfully
+2022-04-19 04:57:39,837:chatbotapi:Processed OCR for received app-image screenshot-17.png-1650344262647.png
+2022-04-19 04:57:40,821:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 05:01:05,544:chatbotapi:OCR section
+2022-04-19 05:01:05,559:chatbotapi:screenshot-6.png-1650344468367.png
+2022-04-19 05:01:05,559:chatbotapi:Image received successfully
+2022-04-19 05:01:05,840:chatbotapi:Processed OCR for received app-image screenshot-6.png-1650344468367.png
+2022-04-19 05:01:17,965:chatbotapi:OCR section
+2022-04-19 05:01:17,965:chatbotapi:screenshot-17.png-1650344481090.png
+2022-04-19 05:01:17,965:chatbotapi:Image received successfully
+2022-04-19 05:01:18,247:chatbotapi:Processed OCR for received app-image screenshot-17.png-1650344481090.png
+2022-04-19 05:01:19,231:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 05:03:22,419:chatbotapi:OCR section
+2022-04-19 05:03:22,419:chatbotapi:screenshot-12.png-1650344605194.png
+2022-04-19 05:03:22,419:chatbotapi:Image received successfully
+2022-04-19 05:03:22,700:chatbotapi:Processed OCR for received app-image screenshot-12.png-1650344605194.png
+2022-04-19 05:06:26,619:chatbotapi:OCR section
+2022-04-19 05:06:26,619:chatbotapi:screenshot-17.png-1650344789577.png
+2022-04-19 05:06:26,619:chatbotapi:Image received successfully
+2022-04-19 05:06:26,900:chatbotapi:Processed OCR for received app-image screenshot-17.png-1650344789577.png
+2022-04-19 05:06:27,853:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 05:09:36,842:chatbotapi:OCR section
+2022-04-19 05:09:36,842:chatbotapi:screenshot-18.png-1650344979891.png
+2022-04-19 05:09:36,842:chatbotapi:Image received successfully
+2022-04-19 05:09:37,123:chatbotapi:Processed OCR for received app-image screenshot-18.png-1650344979891.png
+2022-04-19 05:09:37,701:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 05:11:21,334:chatbotapi:OCR section
+2022-04-19 05:11:21,334:chatbotapi:screenshot-17.png-1650345084361.png
+2022-04-19 05:11:21,334:chatbotapi:Image received successfully
+2022-04-19 05:11:21,600:chatbotapi:Processed OCR for received app-image screenshot-17.png-1650345084361.png
+2022-04-19 05:11:22,584:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 05:11:33,006:chatbotapi:OCR section
+2022-04-19 05:11:33,006:chatbotapi:screenshot-15.png-1650345095923.png
+2022-04-19 05:11:33,006:chatbotapi:Image received successfully
+2022-04-19 05:11:33,271:chatbotapi:Processed OCR for received app-image screenshot-15.png-1650345095923.png
+2022-04-19 05:12:09,898:chatbotapi:OCR section
+2022-04-19 05:12:09,898:chatbotapi:screenshot-1.png-1650345132625.png
+2022-04-19 05:12:09,898:chatbotapi:Image received successfully
+2022-04-19 05:12:10,179:chatbotapi:Processed OCR for received app-image screenshot-1.png-1650345132625.png
+2022-04-19 05:13:56,418:chatbotapi:OCR section
+2022-04-19 05:13:56,434:chatbotapi:screenshot-5.png-1650345239304.png
+2022-04-19 05:13:56,434:chatbotapi:Image received successfully
+2022-04-19 05:13:56,699:chatbotapi:Processed OCR for received app-image screenshot-5.png-1650345239304.png
+2022-04-19 05:14:46,967:chatbotapi:OCR section
+2022-04-19 05:14:46,967:chatbotapi:screenshot-17.png-1650345289964.png
+2022-04-19 05:14:46,967:chatbotapi:Image received successfully
+2022-04-19 05:14:47,249:chatbotapi:Processed OCR for received app-image screenshot-17.png-1650345289964.png
+2022-04-19 05:14:48,202:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 05:16:11,147:chatbotapi:OCR section
+2022-04-19 05:16:11,147:chatbotapi:screenshot-3.png-1650345374153.png
+2022-04-19 05:16:11,147:chatbotapi:Image received successfully
+2022-04-19 05:16:11,429:chatbotapi:Processed OCR for received app-image screenshot-3.png-1650345374153.png
+2022-04-19 05:16:13,069:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 05:17:23,293:chatbotapi:OCR section
+2022-04-19 05:17:23,293:chatbotapi:screenshot-17.png-1650345446291.png
+2022-04-19 05:17:23,293:chatbotapi:Image received successfully
+2022-04-19 05:17:23,559:chatbotapi:Processed OCR for received app-image screenshot-17.png-1650345446291.png
+2022-04-19 05:17:24,527:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 05:17:58,574:chatbotapi:OCR section
+2022-04-19 05:17:58,590:chatbotapi:screenshot-15.png-1650345481581.png
+2022-04-19 05:17:58,590:chatbotapi:Image received successfully
+2022-04-19 05:17:58,856:chatbotapi:Processed OCR for received app-image screenshot-15.png-1650345481581.png
+2022-04-19 05:18:49,704:chatbotapi:OCR section
+2022-04-19 05:18:49,704:chatbotapi:screenshot-13.png-1650345532645.png
+2022-04-19 05:18:49,704:chatbotapi:Image received successfully
+2022-04-19 05:18:49,986:chatbotapi:Processed OCR for received app-image screenshot-13.png-1650345532645.png
+2022-04-19 05:20:19,289:chatbotapi:OCR section
+2022-04-19 05:20:19,289:chatbotapi:screenshot-6.png-1650345622166.png
+2022-04-19 05:20:19,289:chatbotapi:Image received successfully
+2022-04-19 05:20:19,570:chatbotapi:Processed OCR for received app-image screenshot-6.png-1650345622166.png
+2022-04-19 05:31:42,573:chatbotapi:OCR section
+2022-04-19 05:31:42,573:chatbotapi:screenshot-17.png-1650346298951.png
+2022-04-19 05:31:42,589:chatbotapi:Image received successfully
+2022-04-19 05:31:42,870:chatbotapi:Processed OCR for received app-image screenshot-17.png-1650346298951.png
+2022-04-19 05:31:44,651:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 05:38:01,879:chatbotapi:OCR section
+2022-04-19 05:38:01,879:chatbotapi:screenshot-1.png-1650346678191.png
+2022-04-19 05:38:01,879:chatbotapi:Image received successfully
+2022-04-19 05:38:02,176:chatbotapi:Processed OCR for received app-image screenshot-1.png-1650346678191.png
+2022-04-19 05:45:48,294:chatbotapi:Custom app text message received
+2022-04-19 05:46:26,825:chatbotapi:Custom app text message received
+2022-04-19 05:47:17,643:chatbotapi:Custom app text message received
+2022-04-19 05:47:38,283:chatbotapi:Custom app text message received
+2022-04-19 06:05:06,323:chatbotapi:OCR section
+2022-04-19 06:05:06,323:chatbotapi:screenshot-10.png-1650348302566.png
+2022-04-19 06:05:06,323:chatbotapi:Image received successfully
+2022-04-19 06:05:06,620:chatbotapi:Processed OCR for received app-image screenshot-10.png-1650348302566.png
+2022-04-19 06:07:05,577:chatbotapi:OCR section
+2022-04-19 06:07:05,577:chatbotapi:screenshot-18.png-1650348427775.png
+2022-04-19 06:07:05,577:chatbotapi:Image received successfully
+2022-04-19 06:07:05,874:chatbotapi:Processed OCR for received app-image screenshot-18.png-1650348427775.png
+2022-04-19 06:07:06,452:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 06:07:40,054:chatbotapi:OCR section
+2022-04-19 06:07:40,054:chatbotapi:screenshot-14.png-1650348463123.png
+2022-04-19 06:07:40,054:chatbotapi:Image received successfully
+2022-04-19 06:07:40,335:chatbotapi:Processed OCR for received app-image screenshot-14.png-1650348463123.png
+2022-04-19 06:11:01,055:chatbotapi:OCR section
+2022-04-19 06:11:01,055:chatbotapi:screenshot-18.png-1650348664183.png
+2022-04-19 06:11:01,055:chatbotapi:Image received successfully
+2022-04-19 06:11:01,336:chatbotapi:Processed OCR for received app-image screenshot-18.png-1650348664183.png
+2022-04-19 06:11:01,899:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 06:11:19,903:chatbotapi:OCR section
+2022-04-19 06:11:19,903:chatbotapi:screenshot-13.png-1650348682902.png
+2022-04-19 06:11:19,903:chatbotapi:Image received successfully
+2022-04-19 06:11:20,184:chatbotapi:Processed OCR for received app-image screenshot-13.png-1650348682902.png
+2022-04-19 06:14:40,052:chatbotapi:OCR section
+2022-04-19 06:14:40,052:chatbotapi:screenshot-18.png-1650348883216.png
+2022-04-19 06:14:40,052:chatbotapi:Image received successfully
+2022-04-19 06:14:40,333:chatbotapi:Processed OCR for received app-image screenshot-18.png-1650348883216.png
+2022-04-19 06:14:40,911:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 06:14:55,583:chatbotapi:OCR section
+2022-04-19 06:14:55,583:chatbotapi:screenshot-14.png-1650348898635.png
+2022-04-19 06:14:55,583:chatbotapi:Image received successfully
+2022-04-19 06:14:55,864:chatbotapi:Processed OCR for received app-image screenshot-14.png-1650348898635.png
+2022-04-19 06:16:39,052:chatbotapi:OCR section
+2022-04-19 06:16:39,068:chatbotapi:screenshot-1.png-1650349001830.png
+2022-04-19 06:16:39,068:chatbotapi:Image received successfully
+2022-04-19 06:16:39,349:chatbotapi:Processed OCR for received app-image screenshot-1.png-1650349001830.png
+2022-04-19 06:17:08,054:chatbotapi:Custom app text message received
+2022-04-19 06:17:14,413:chatbotapi:OCR section
+2022-04-19 06:17:14,429:chatbotapi:screenshot-1.png-1650349037292.png
+2022-04-19 06:17:14,429:chatbotapi:Image received successfully
+2022-04-19 06:17:14,710:chatbotapi:Processed OCR for received app-image screenshot-1.png-1650349037292.png
+2022-04-19 06:17:29,993:chatbotapi:OCR section
+2022-04-19 06:17:29,993:chatbotapi:screenshot-4.png-1650349052984.png
+2022-04-19 06:17:29,993:chatbotapi:Image received successfully
+2022-04-19 06:17:30,274:chatbotapi:Processed OCR for received app-image screenshot-4.png-1650349052984.png
+2022-04-19 06:19:48,611:chatbotapi:Custom app text message received
+2022-04-19 06:19:53,830:chatbotapi:OCR section
+2022-04-19 06:19:53,830:chatbotapi:screenshot-1.png-1650349196708.png
+2022-04-19 06:19:53,830:chatbotapi:Image received successfully
+2022-04-19 06:19:54,111:chatbotapi:Processed OCR for received app-image screenshot-1.png-1650349196708.png
+2022-04-19 06:31:42,600:chatbotapi:OCR section
+2022-04-19 06:31:42,600:chatbotapi:screenshot-4.png-1650349898905.png
+2022-04-19 06:31:42,600:chatbotapi:Image received successfully
+2022-04-19 06:31:42,882:chatbotapi:Processed OCR for received app-image screenshot-4.png-1650349898905.png
+2022-04-19 06:35:44,041:chatbotapi:OCR section
+2022-04-19 06:35:44,041:chatbotapi:screenshot-4.png-1650350146883.png
+2022-04-19 06:35:44,041:chatbotapi:Image received successfully
+2022-04-19 06:35:44,338:chatbotapi:Processed OCR for received app-image screenshot-4.png-1650350146883.png
+2022-04-19 06:36:10,135:chatbotapi:OCR section
+2022-04-19 06:36:10,135:chatbotapi:screenshot-4.png-1650350173079.png
+2022-04-19 06:36:10,135:chatbotapi:Image received successfully
+2022-04-19 06:36:10,401:chatbotapi:Processed OCR for received app-image screenshot-4.png-1650350173079.png
+2022-04-19 06:37:00,971:chatbotapi:OCR section
+2022-04-19 06:37:00,971:chatbotapi:screenshot-4.png-1650350223968.png
+2022-04-19 06:37:00,971:chatbotapi:Image received successfully
+2022-04-19 06:37:01,237:chatbotapi:Processed OCR for received app-image screenshot-4.png-1650350223968.png
+2022-04-19 06:37:22,425:chatbotapi:OCR section
+2022-04-19 06:37:22,425:chatbotapi:screenshot-4.png-1650350245425.png
+2022-04-19 06:37:22,425:chatbotapi:Image received successfully
+2022-04-19 06:37:22,706:chatbotapi:Processed OCR for received app-image screenshot-4.png-1650350245425.png
+2022-04-19 06:41:20,505:chatbotapi:OCR section
+2022-04-19 06:41:20,505:chatbotapi:screenshot-4.png-1650350483192.png
+2022-04-19 06:41:20,505:chatbotapi:Image received successfully
+2022-04-19 06:41:20,787:chatbotapi:Processed OCR for received app-image screenshot-4.png-1650350483192.png
+2022-04-19 06:41:37,521:chatbotapi:OCR section
+2022-04-19 06:41:37,537:chatbotapi:screenshot-4.png-1650350500422.png
+2022-04-19 06:41:37,537:chatbotapi:Image received successfully
+2022-04-19 06:41:37,802:chatbotapi:Processed OCR for received app-image screenshot-4.png-1650350500422.png
+2022-04-19 06:42:37,980:chatbotapi:OCR section
+2022-04-19 06:42:37,980:chatbotapi:screenshot-4.png-1650350560950.png
+2022-04-19 06:42:37,980:chatbotapi:Image received successfully
+2022-04-19 06:42:38,261:chatbotapi:Processed OCR for received app-image screenshot-4.png-1650350560950.png
+2022-04-19 06:43:08,810:chatbotapi:OCR section
+2022-04-19 06:43:08,810:chatbotapi:screenshot-17.png-1650350591912.png
+2022-04-19 06:43:08,810:chatbotapi:Image received successfully
+2022-04-19 06:43:09,076:chatbotapi:Processed OCR for received app-image screenshot-17.png-1650350591912.png
+2022-04-19 06:43:10,045:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 06:43:28,482:chatbotapi:OCR section
+2022-04-19 06:43:28,498:chatbotapi:0001.jpg-1650350610939.jpg
+2022-04-19 06:43:28,498:chatbotapi:Image received successfully
+2022-04-19 06:43:28,842:chatbotapi:Processed OCR for received app-image 0001.jpg-1650350610939.jpg
+2022-04-19 06:43:30,435:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 06:43:40,810:chatbotapi:OCR section
+2022-04-19 06:43:40,810:chatbotapi:221798.jpg-1650350622643.jpg
+2022-04-19 06:43:40,810:chatbotapi:Image received successfully
+2022-04-19 06:43:41,076:chatbotapi:Processed OCR for received app-image 221798.jpg-1650350622643.jpg
+2022-04-19 06:44:04,298:chatbotapi:OCR section
+2022-04-19 06:44:04,314:chatbotapi:541326.jpg-1650350646200.jpg
+2022-04-19 06:44:04,314:chatbotapi:Image received successfully
+2022-04-19 06:44:04,689:chatbotapi:Processed OCR for received app-image 541326.jpg-1650350646200.jpg
+2022-04-19 06:46:41,243:chatbotapi:OCR section
+2022-04-19 06:46:41,243:chatbotapi:screenshot-17.png-1650350804326.png
+2022-04-19 06:46:41,243:chatbotapi:Image received successfully
+2022-04-19 06:46:41,509:chatbotapi:Processed OCR for received app-image screenshot-17.png-1650350804326.png
+2022-04-19 06:46:42,478:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 06:49:09,431:chatbotapi:OCR section
+2022-04-19 06:49:09,431:chatbotapi:screenshot-17.png-1650350952585.png
+2022-04-19 06:49:09,431:chatbotapi:Image received successfully
+2022-04-19 06:49:09,697:chatbotapi:Processed OCR for received app-image screenshot-17.png-1650350952585.png
+2022-04-19 06:49:10,666:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 06:51:50,980:chatbotapi:Custom app text message received
+2022-04-19 06:52:23,576:chatbotapi:OCR section
+2022-04-19 06:52:23,576:chatbotapi:585414.jpg-1650351144247.jpg
+2022-04-19 06:52:23,576:chatbotapi:Image received successfully
+2022-04-19 06:52:23,967:chatbotapi:Processed OCR for received app-image 585414.jpg-1650351144247.jpg
+2022-04-19 06:53:05,428:chatbotapi:Custom app text message received
+2022-04-19 06:53:35,194:chatbotapi:Custom app text message received
+2022-04-19 06:54:15,605:chatbotapi:Custom app text message received
+2022-04-19 06:54:26,589:chatbotapi:OCR section
+2022-04-19 06:54:26,589:chatbotapi:wallpaperflare.com_wallpaper-1.jpg-1650351269206.jpg
+2022-04-19 06:54:26,589:chatbotapi:Image received successfully
+2022-04-19 06:54:26,792:chatbotapi:Processed OCR for received app-image wallpaperflare.com_wallpaper-1.jpg-1650351269206.jpg
+2022-04-19 06:56:19,318:chatbotapi:OCR section
+2022-04-19 06:56:19,318:chatbotapi:screenshot-17.png-1650351382429.png
+2022-04-19 06:56:19,318:chatbotapi:Image received successfully
+2022-04-19 06:56:19,584:chatbotapi:Processed OCR for received app-image screenshot-17.png-1650351382429.png
+2022-04-19 06:56:20,553:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 07:03:18,088:chatbotapi:OCR section
+2022-04-19 07:03:18,088:chatbotapi:screenshot-17.png-1650351794517.png
+2022-04-19 07:03:18,088:chatbotapi:Image received successfully
+2022-04-19 07:03:18,369:chatbotapi:Processed OCR for received app-image screenshot-17.png-1650351794517.png
+2022-04-19 07:03:20,135:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 07:05:39,458:chatbotapi:OCR section
+2022-04-19 07:05:39,458:chatbotapi:screenshot-17.png-1650351942506.png
+2022-04-19 07:05:39,458:chatbotapi:Image received successfully
+2022-04-19 07:05:39,739:chatbotapi:Processed OCR for received app-image screenshot-17.png-1650351942506.png
+2022-04-19 07:05:40,692:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 07:07:36,419:chatbotapi:No file part in the request
+2022-04-19 07:10:44,860:chatbotapi:No file part in the request
+2022-04-19 07:11:47,801:chatbotapi:No file part in the request
+2022-04-19 07:12:35,304:chatbotapi:No file part in the request
+2022-04-19 07:13:17,042:chatbotapi:No file part in the request
+2022-04-19 07:14:04,933:chatbotapi:No file part in the request
+2022-04-19 07:14:36,812:chatbotapi:No file part in the request
+2022-04-19 07:15:21,164:chatbotapi:Custom app text message received
+2022-04-19 07:15:27,961:chatbotapi:No file part in the request
+2022-04-19 07:16:14,086:chatbotapi:OCR section
+2022-04-19 07:16:14,086:chatbotapi:screenshot-17.png-1650352575759.png
+2022-04-19 07:16:14,086:chatbotapi:Image received successfully
+2022-04-19 07:16:14,367:chatbotapi:Processed OCR for received app-image screenshot-17.png-1650352575759.png
+2022-04-19 07:16:15,337:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 07:21:09,095:chatbotapi:OCR section
+2022-04-19 07:21:09,095:chatbotapi:screenshot-17.png-1650352872099.png
+2022-04-19 07:21:09,095:chatbotapi:Image received successfully
+2022-04-19 07:21:09,376:chatbotapi:Processed OCR for received app-image screenshot-17.png-1650352872099.png
+2022-04-19 07:21:10,329:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 07:34:47,747:chatbotapi:OCR section
+2022-04-19 07:34:47,747:chatbotapi:screenshot-17.png-1650353684234.png
+2022-04-19 07:34:47,747:chatbotapi:Image received successfully
+2022-04-19 07:34:48,028:chatbotapi:Processed OCR for received app-image screenshot-17.png-1650353684234.png
+2022-04-19 07:34:49,810:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 07:51:58,103:chatbotapi:Custom app text message received
+2022-04-19 07:54:12,955:chatbotapi:OCR section
+2022-04-19 07:54:12,955:chatbotapi:screenshot-17.png-1650354628174.png
+2022-04-19 07:54:12,955:chatbotapi:Image received successfully
+2022-04-19 07:54:13,237:chatbotapi:Processed OCR for received app-image screenshot-17.png-1650354628174.png
+2022-04-19 07:54:14,205:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 09:01:00,428:chatbotapi:OCR section
+2022-04-19 09:01:00,428:chatbotapi:screenshot-17.png-1650354628174.png
+2022-04-19 09:01:00,428:chatbotapi:Image received successfully
+2022-04-19 09:01:00,707:chatbotapi:Processed OCR for received app-image screenshot-17.png-1650354628174.png
+2022-04-19 09:01:02,493:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 09:09:55,370:chatbotapi:OCR section
+2022-04-19 09:09:55,370:chatbotapi:screenshot-17.png-1650354628174.png
+2022-04-19 09:09:55,370:chatbotapi:Image received successfully
+2022-04-19 09:09:55,652:chatbotapi:Processed OCR for received app-image screenshot-17.png-1650354628174.png
+2022-04-19 09:09:57,449:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 09:10:00,449:chatbotapi:OCR section
+2022-04-19 09:10:00,464:chatbotapi:screenshot-17.png-1650354628174.png
+2022-04-19 09:10:00,464:chatbotapi:Image received successfully
+2022-04-19 09:10:00,730:chatbotapi:Processed OCR for received app-image screenshot-17.png-1650354628174.png
+2022-04-19 09:10:01,699:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 11:58:39,517:chatbotapi:OCR section
+2022-04-19 11:58:39,517:chatbotapi:images.jpg-1650369516139.jpg
+2022-04-19 11:58:39,517:chatbotapi:Image received successfully
+2022-04-19 11:58:39,704:chatbotapi:Processed OCR for received app-image images.jpg-1650369516139.jpg
+2022-04-19 12:06:52,263:chatbotapi:OCR section
+2022-04-19 12:06:52,263:chatbotapi:screenshot-17.png-1650370008547.png
+2022-04-19 12:06:52,263:chatbotapi:Image received successfully
+2022-04-19 12:06:52,544:chatbotapi:Processed OCR for received app-image screenshot-17.png-1650370008547.png
+2022-04-19 12:06:54,325:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 12:15:56,818:chatbotapi:OCR section
+2022-04-19 12:15:56,818:chatbotapi:screenshot-17.png-1650370553264.png
+2022-04-19 12:15:56,818:chatbotapi:Image received successfully
+2022-04-19 12:15:57,099:chatbotapi:Processed OCR for received app-image screenshot-17.png-1650370553264.png
+2022-04-19 12:15:58,896:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 12:16:18,197:chatbotapi:Custom app text message received
+2022-04-19 17:04:58,134:chatbotapi:Custom app text message received
+2022-04-19 17:05:16,971:chatbotapi:OCR section
+2022-04-19 17:05:16,971:chatbotapi:screenshot-17.png-1650387919463.png
+2022-04-19 17:05:16,971:chatbotapi:Image received successfully
+2022-04-19 17:05:17,268:chatbotapi:Processed OCR for received app-image screenshot-17.png-1650387919463.png
+2022-04-19 17:05:18,221:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-19 17:07:04,487:chatbotapi:Custom app text message received
+2022-04-19 17:07:10,165:chatbotapi:OCR section
+2022-04-19 17:07:10,165:chatbotapi:screenshot-17.png-1650388032666.png
+2022-04-19 17:07:10,165:chatbotapi:Image received successfully
+2022-04-19 17:07:10,446:chatbotapi:Processed OCR for received app-image screenshot-17.png-1650388032666.png
+2022-04-19 17:07:11,400:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-21 07:25:40,399:chatbotapi:OCR section
+2022-04-21 07:25:40,399:chatbotapi:screenshot-17.png-1650525936300.png
+2022-04-21 07:25:40,399:chatbotapi:Image received successfully
+2022-04-21 07:25:40,680:chatbotapi:Processed OCR for received app-image screenshot-17.png-1650525936300.png
+2022-04-21 07:25:42,461:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-04-22 08:59:52,399:chatbotapi:OCR section
+2022-04-22 08:59:52,399:chatbotapi:screenshot-17.png-1650617982664.png
+2022-04-22 08:59:52,399:chatbotapi:Image received successfully
+2022-04-22 08:59:52,696:chatbotapi:Processed OCR for received app-image screenshot-17.png-1650617982664.png
+2022-04-22 08:59:54,524:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 204, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 428, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 384, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 270, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File ".\chatbotapi.py", line 326, in error_upload
+    index = get_index_value(t)
+  File ".\chatbotapi.py", line 154, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-05-05 08:07:43,287:chatbotapi:Custom app text message received
+2022-05-05 08:36:31,819:chatbotapi:OCR section
+2022-05-05 08:36:31,821:chatbotapi:image1.jpg-1651739784877.jpg
+2022-05-05 08:36:31,822:chatbotapi:Image received successfully
+2022-05-05 08:36:32,045:chatbotapi:Processed OCR for received app-image image1.jpg-1651739784877.jpg
+2022-05-05 09:15:19,933:chatbotapi:Custom app text message received
+2022-05-05 09:15:49,203:chatbotapi:Custom app text message received
+2022-05-06 05:07:06,913:chatbotapi:Received whatsapp-image data
+2022-05-06 10:41:03,044:chatbotapi:Custom app text message received
+2022-05-06 10:41:04,209:chatbotapi:1 has confidence = 0.79108465
+2022-05-06 10:41:04,209:chatbotapi:1
+2022-05-06 10:41:04,223:chatbotapi:Solution fetched
+2022-05-06 11:49:55,430:chatbotapi:Custom app text message received
+2022-05-06 11:49:56,345:chatbotapi:1 has confidence = 0.79108465
+2022-05-06 11:49:56,346:chatbotapi:1
+2022-05-06 11:49:56,359:chatbotapi:Solution fetched
+2022-05-06 11:51:04,882:chatbotapi:Custom app text message received
+2022-05-06 11:51:04,934:chatbotapi:29 has confidence = 0.9997861
+2022-05-06 11:51:04,935:chatbotapi:29
+2022-05-06 11:51:04,939:chatbotapi:Solution fetched
+2022-05-06 11:51:28,116:chatbotapi:Custom app text message received
+2022-05-06 11:51:28,168:chatbotapi:34 has confidence = 0.999997
+2022-05-06 11:51:28,168:chatbotapi:34
+2022-05-06 11:51:28,172:chatbotapi:Solution fetched
+2022-05-06 11:52:05,373:chatbotapi:Custom app text message received
+2022-05-06 11:52:05,424:chatbotapi:37 has confidence = 0.99809223
+2022-05-06 11:52:05,425:chatbotapi:37
+2022-05-06 11:52:05,429:chatbotapi:Solution fetched
+2022-05-06 11:52:20,715:chatbotapi:Custom app text message received
+2022-05-06 11:52:20,764:chatbotapi:42 has confidence = 0.9999814
+2022-05-06 11:52:20,765:chatbotapi:42
+2022-05-06 11:52:20,768:chatbotapi:Solution fetched
+2022-05-06 11:52:35,803:chatbotapi:OCR section
+2022-05-06 11:52:35,804:chatbotapi:image1.jpg-1651837955782.jpg
+2022-05-06 11:52:35,804:chatbotapi:Image received successfully
+2022-05-06 11:52:36,000:chatbotapi:Processed OCR for received app-image image1.jpg-1651837955782.jpg
+2022-05-06 11:52:36,197:chatbotapi:2 has confidence = 0.99999726
+2022-05-06 11:52:36,197:chatbotapi:2
+2022-05-06 11:52:36,201:chatbotapi:Solution fetched
+2022-05-06 11:53:07,525:chatbotapi:OCR section
+2022-05-06 11:53:07,526:chatbotapi:sample.png-1651837987508.png
+2022-05-06 11:53:07,526:chatbotapi:Image received successfully
+2022-05-06 11:53:07,725:chatbotapi:Processed OCR for received app-image sample.png-1651837987508.png
+2022-05-06 11:53:07,898:chatbotapi:2 has confidence = 0.99999726
+2022-05-06 11:53:07,899:chatbotapi:2
+2022-05-06 11:53:07,903:chatbotapi:Solution fetched
+2022-05-06 11:59:03,563:chatbotapi:Received whatsapp-JSON data
+2022-05-06 11:59:04,470:chatbotapi:94 has confidence = 0.99999726
+2022-05-06 11:59:04,470:chatbotapi:94
+2022-05-06 11:59:04,470:chatbotapi:Solution fetched
+2022-05-06 11:59:21,340:chatbotapi:Received whatsapp-audio data
+2022-05-06 11:59:24,574:chatbotapi:1 has confidence = 0.79108465
+2022-05-06 11:59:24,574:chatbotapi:1
+2022-05-06 11:59:24,574:chatbotapi:Solution fetched
+2022-05-07 11:34:58,784:chatbotapi:Custom app text message received
+2022-05-07 11:35:00,072:chatbotapi:1 has confidence = 0.79108465
+2022-05-07 11:35:00,073:chatbotapi:1
+2022-05-07 11:35:00,089:chatbotapi:Solution fetched
+2022-05-07 11:37:56,347:chatbotapi:Custom app text message received
+2022-05-07 11:37:56,401:chatbotapi:1 has confidence = 0.79108465
+2022-05-07 11:37:56,401:chatbotapi:1
+2022-05-07 11:37:56,407:chatbotapi:Solution fetched
+2022-05-07 11:38:30,844:chatbotapi:Custom app text message received
+2022-05-07 11:38:30,895:chatbotapi:82 has confidence = 0.9571216
+2022-05-07 11:38:30,895:chatbotapi:82
+2022-05-07 11:38:30,900:chatbotapi:Solution fetched
+2022-05-07 11:44:13,801:chatbotapi:OCR section
+2022-05-07 11:44:13,803:chatbotapi:whatsapp-image-2022-05-07-at-5.11.34-pm.jpeg-1651923843405.jpg
+2022-05-07 11:44:13,803:chatbotapi:Image received successfully
+2022-05-07 11:44:14,019:chatbotapi:Processed OCR for received app-image whatsapp-image-2022-05-07-at-5.11.34-pm.jpeg-1651923843405.jpg
+2022-05-07 11:44:15,264:chatbotapi:1 has confidence = 0.79108465
+2022-05-07 11:44:15,265:chatbotapi:1
+2022-05-07 11:44:15,270:chatbotapi:Solution fetched
+2022-05-07 11:46:43,522:chatbotapi:OCR section
+2022-05-07 11:46:43,523:chatbotapi:whatsapp-image-2022-05-07-at-5.11.35-pm-1.jpeg-1651924003467.jpg
+2022-05-07 11:46:43,524:chatbotapi:Image received successfully
+2022-05-07 11:46:43,706:chatbotapi:Processed OCR for received app-image whatsapp-image-2022-05-07-at-5.11.35-pm-1.jpeg-1651924003467.jpg
+2022-05-07 11:46:43,876:chatbotapi:2 has confidence = 0.99999726
+2022-05-07 11:46:43,877:chatbotapi:2
+2022-05-07 11:46:43,880:chatbotapi:Solution fetched
+2022-05-07 11:49:03,371:chatbotapi:OCR section
+2022-05-07 11:49:03,372:chatbotapi:whatsapp-image-2022-05-07-at-5.11.35-pm-1.jpeg-1651924143320.jpg
+2022-05-07 11:49:03,372:chatbotapi:Image received successfully
+2022-05-07 11:49:03,560:chatbotapi:Processed OCR for received app-image whatsapp-image-2022-05-07-at-5.11.35-pm-1.jpeg-1651924143320.jpg
+2022-05-07 11:49:03,751:chatbotapi:2 has confidence = 0.99999726
+2022-05-07 11:49:03,751:chatbotapi:2
+2022-05-07 11:49:03,755:chatbotapi:Solution fetched
+2022-05-07 11:50:12,687:chatbotapi:OCR section
+2022-05-07 11:50:12,688:chatbotapi:whatsapp-image-2022-05-07-at-5.11.35-pm-1.jpeg-1651924212643.jpg
+2022-05-07 11:50:12,688:chatbotapi:Image received successfully
+2022-05-07 11:50:12,875:chatbotapi:Processed OCR for received app-image whatsapp-image-2022-05-07-at-5.11.35-pm-1.jpeg-1651924212643.jpg
+2022-05-07 11:50:13,050:chatbotapi:2 has confidence = 0.99999726
+2022-05-07 11:50:13,051:chatbotapi:2
+2022-05-07 11:50:13,055:chatbotapi:Solution fetched
+2022-05-07 11:52:20,675:chatbotapi:OCR section
+2022-05-07 11:52:20,676:chatbotapi:whatsapp-image-2022-05-07-at-5.11.35-pm-2.jpeg-1651924340632.jpg
+2022-05-07 11:52:20,676:chatbotapi:Image received successfully
+2022-05-07 11:52:20,889:chatbotapi:Processed OCR for received app-image whatsapp-image-2022-05-07-at-5.11.35-pm-2.jpeg-1651924340632.jpg
+2022-05-07 11:52:21,056:chatbotapi:2 has confidence = 0.99999726
+2022-05-07 11:52:21,056:chatbotapi:2
+2022-05-07 11:52:21,060:chatbotapi:Solution fetched
+2022-05-07 11:57:23,530:chatbotapi:OCR section
+2022-05-07 11:57:23,532:chatbotapi:whatsapp-image-2022-05-07-at-5.11.35-pm-1.jpeg-1651924643479.jpg
+2022-05-07 11:57:23,532:chatbotapi:Image received successfully
+2022-05-07 11:57:23,716:chatbotapi:Processed OCR for received app-image whatsapp-image-2022-05-07-at-5.11.35-pm-1.jpeg-1651924643479.jpg
+2022-05-07 11:57:23,894:chatbotapi:2 has confidence = 0.99999726
+2022-05-07 11:57:23,895:chatbotapi:2
+2022-05-07 11:57:23,899:chatbotapi:Solution fetched
+2022-05-07 11:57:49,104:chatbotapi:OCR section
+2022-05-07 11:57:49,105:chatbotapi:whatsapp-image-2022-05-07-at-5.11.35-pm-1.jpeg-1651924669015.jpg
+2022-05-07 11:57:49,105:chatbotapi:Image received successfully
+2022-05-07 11:57:49,290:chatbotapi:Processed OCR for received app-image whatsapp-image-2022-05-07-at-5.11.35-pm-1.jpeg-1651924669015.jpg
+2022-05-07 11:57:49,467:chatbotapi:2 has confidence = 0.99999726
+2022-05-07 11:57:49,468:chatbotapi:2
+2022-05-07 11:57:49,472:chatbotapi:Solution fetched
+2022-05-07 11:58:35,679:chatbotapi:OCR section
+2022-05-07 11:58:35,679:chatbotapi:whatsapp-image-2022-05-07-at-5.11.34-pm.jpeg-1651924715634.jpg
+2022-05-07 11:58:35,680:chatbotapi:Image received successfully
+2022-05-07 11:58:35,873:chatbotapi:Processed OCR for received app-image whatsapp-image-2022-05-07-at-5.11.34-pm.jpeg-1651924715634.jpg
+2022-05-07 11:58:36,035:chatbotapi:1 has confidence = 0.79108465
+2022-05-07 11:58:36,035:chatbotapi:1
+2022-05-07 11:58:36,039:chatbotapi:Solution fetched
+2022-05-07 11:59:13,716:chatbotapi:OCR section
+2022-05-07 11:59:13,717:chatbotapi:whatsapp-image-2022-05-07-at-5.11.35-pm-2.jpeg-1651924753673.jpg
+2022-05-07 11:59:13,717:chatbotapi:Image received successfully
+2022-05-07 11:59:13,904:chatbotapi:Processed OCR for received app-image whatsapp-image-2022-05-07-at-5.11.35-pm-2.jpeg-1651924753673.jpg
+2022-05-07 11:59:14,098:chatbotapi:2 has confidence = 0.99999726
+2022-05-07 11:59:14,098:chatbotapi:2
+2022-05-07 11:59:14,102:chatbotapi:Solution fetched
+2022-05-07 12:02:56,196:chatbotapi:OCR section
+2022-05-07 12:02:56,197:chatbotapi:whatsapp-image-2022-05-07-at-5.11.35-pm-2.jpeg-1651924976152.jpg
+2022-05-07 12:02:56,197:chatbotapi:Image received successfully
+2022-05-07 12:02:56,384:chatbotapi:Processed OCR for received app-image whatsapp-image-2022-05-07-at-5.11.35-pm-2.jpeg-1651924976152.jpg
+2022-05-07 12:02:56,552:chatbotapi:2 has confidence = 0.99999726
+2022-05-07 12:02:56,552:chatbotapi:2
+2022-05-07 12:02:56,556:chatbotapi:Solution fetched
+2022-05-07 12:06:22,015:chatbotapi:OCR section
+2022-05-07 12:06:22,017:chatbotapi:whatsapp-image-2022-05-07-at-5.11.35-pm-1.jpeg-1651925181970.jpg
+2022-05-07 12:06:22,017:chatbotapi:Image received successfully
+2022-05-07 12:06:22,210:chatbotapi:Processed OCR for received app-image whatsapp-image-2022-05-07-at-5.11.35-pm-1.jpeg-1651925181970.jpg
+2022-05-07 12:06:22,383:chatbotapi:2 has confidence = 0.99999726
+2022-05-07 12:06:22,384:chatbotapi:2
+2022-05-07 12:06:22,391:chatbotapi:Solution fetched
+2022-05-07 12:06:55,952:chatbotapi:OCR section
+2022-05-07 12:06:55,953:chatbotapi:whatsapp-image-2022-05-07-at-5.11.35-pm-2.jpeg-1651925215910.jpg
+2022-05-07 12:06:55,953:chatbotapi:Image received successfully
+2022-05-07 12:06:56,143:chatbotapi:Processed OCR for received app-image whatsapp-image-2022-05-07-at-5.11.35-pm-2.jpeg-1651925215910.jpg
+2022-05-07 12:06:56,309:chatbotapi:2 has confidence = 0.99999726
+2022-05-07 12:06:56,310:chatbotapi:2
+2022-05-07 12:06:56,314:chatbotapi:Solution fetched
+2022-05-09 05:08:42,878:chatbotapi:OCR section
+2022-05-09 05:08:42,881:chatbotapi:image1.jpg-1652072915388.jpg
+2022-05-09 05:08:42,881:chatbotapi:Image received successfully
+2022-05-09 05:08:43,081:chatbotapi:Processed OCR for received app-image image1.jpg-1652072915388.jpg
+2022-05-09 05:08:44,129:chatbotapi:2 has confidence = 0.99999726
+2022-05-09 05:08:44,129:chatbotapi:2
+2022-05-09 05:08:44,143:chatbotapi:Solution fetched
+2022-05-09 05:08:55,483:chatbotapi:OCR section
+2022-05-09 05:08:55,484:chatbotapi:sample.png-1652072935469.png
+2022-05-09 05:08:55,484:chatbotapi:Image received successfully
+2022-05-09 05:08:55,690:chatbotapi:Processed OCR for received app-image sample.png-1652072935469.png
+2022-05-09 05:08:55,850:chatbotapi:2 has confidence = 0.99999726
+2022-05-09 05:08:55,850:chatbotapi:2
+2022-05-09 05:08:55,854:chatbotapi:Solution fetched
+2022-05-09 05:09:14,752:chatbotapi:OCR section
+2022-05-09 05:09:14,753:chatbotapi:sample1.png-1652072954736.png
+2022-05-09 05:09:14,753:chatbotapi:Image received successfully
+2022-05-09 05:09:14,955:chatbotapi:Processed OCR for received app-image sample1.png-1652072954736.png
+2022-05-09 05:09:15,137:chatbotapi:12 has confidence = 0.9999509
+2022-05-09 05:09:15,137:chatbotapi:12
+2022-05-09 05:09:15,141:chatbotapi:Solution fetched
+2022-05-09 05:26:50,521:chatbotapi:Custom app text message received
+2022-05-09 05:26:51,422:chatbotapi:1 has confidence = 0.79108465
+2022-05-09 05:26:51,423:chatbotapi:1
+2022-05-09 05:26:51,427:chatbotapi:Solution fetched
+2022-05-11 06:54:31,925:chatbotapi:Custom app text message received
+2022-05-11 06:54:33,128:chatbotapi:1 has confidence = 0.79108465
+2022-05-11 06:54:33,128:chatbotapi:1
+2022-05-11 06:54:33,128:chatbotapi:Solution fetched
+2022-05-11 06:55:11,986:chatbotapi:OCR section
+2022-05-11 06:55:11,986:chatbotapi:scaled_image_picker1420925303579301188.png
+2022-05-11 06:55:11,986:chatbotapi:Image received successfully
+2022-05-11 06:55:12,205:chatbotapi:Processed OCR for received app-image scaled_image_picker1420925303579301188.png
+2022-05-11 06:55:12,455:chatbotapi:12 has confidence = 0.9999509
+2022-05-11 06:55:12,455:chatbotapi:12
+2022-05-11 06:55:12,455:chatbotapi:Solution fetched
+2022-05-11 06:55:18,671:chatbotapi:OCR section
+2022-05-11 06:55:18,671:chatbotapi:scaled_image_picker5845881662980160072.jpg
+2022-05-11 06:55:18,671:chatbotapi:Image received successfully
+2022-05-11 06:55:18,875:chatbotapi:Processed OCR for received app-image scaled_image_picker5845881662980160072.jpg
+2022-05-11 06:55:19,875:chatbotapi:2 has confidence = 0.99999726
+2022-05-11 06:55:19,875:chatbotapi:2
+2022-05-11 06:55:19,890:chatbotapi:Solution fetched
+2022-05-11 08:32:06,846:chatbotapi:Received whatsapp-audio data
+2022-05-11 08:32:10,564:chatbotapi:1 has confidence = 0.79108465
+2022-05-11 08:32:10,564:chatbotapi:1
+2022-05-11 08:32:10,564:chatbotapi:Solution fetched
+2022-05-11 08:34:59,590:chatbotapi:Received whatsapp-audio data
+2022-05-11 08:35:02,434:chatbotapi:2 has confidence = 0.9822167
+2022-05-11 08:35:02,434:chatbotapi:2
+2022-05-11 08:35:02,450:chatbotapi:Solution fetched
+2022-05-11 11:11:33,926:chatbotapi:Received whatsapp-JSON data
+2022-05-11 11:11:34,824:chatbotapi:2 has confidence = 0.9822167
+2022-05-11 11:11:34,824:chatbotapi:2
+2022-05-11 11:11:34,824:chatbotapi:Solution fetched
+2022-05-11 11:11:43,679:chatbotapi:Received whatsapp-JSON data
+2022-05-11 11:11:43,736:chatbotapi:1 has confidence = 0.79108465
+2022-05-11 11:11:43,736:chatbotapi:1
+2022-05-11 11:11:43,736:chatbotapi:Solution fetched
+2022-05-11 11:29:06,320:chatbotapi:Custom app text message received
+2022-05-11 11:29:07,242:chatbotapi:65 has confidence = 0.9748932
+2022-05-11 11:29:07,243:chatbotapi:65
+2022-05-11 11:29:07,247:chatbotapi:Solution fetched
+2022-05-11 11:29:26,546:chatbotapi:Custom app text message received
+2022-05-11 11:29:26,599:chatbotapi:2 has confidence = 0.9822167
+2022-05-11 11:29:26,600:chatbotapi:2
+2022-05-11 11:29:26,604:chatbotapi:Solution fetched
+2022-05-12 03:32:36,625:chatbotapi:Received whatsapp-JSON data
+2022-05-12 03:32:37,521:chatbotapi:2 has confidence = 0.9822167
+2022-05-12 03:32:37,521:chatbotapi:2
+2022-05-12 03:32:37,521:chatbotapi:Solution fetched
+2022-05-12 03:33:03,064:chatbotapi:Custom app text message received
+2022-05-12 03:33:03,112:chatbotapi:2 has confidence = 0.9822167
+2022-05-12 03:33:03,112:chatbotapi:2
+2022-05-12 03:33:03,116:chatbotapi:Solution fetched
+2022-05-12 03:34:25,050:chatbotapi:Custom app text message received
+2022-05-12 03:34:25,101:chatbotapi:11 has confidence = 0.9999839
+2022-05-12 03:34:25,101:chatbotapi:11
+2022-05-12 03:34:25,105:chatbotapi:Solution fetched
+2022-05-12 03:50:59,029:chatbotapi:Received whatsapp-JSON data
+2022-05-12 03:50:59,907:chatbotapi:51 has confidence = 0.99958867
+2022-05-12 03:50:59,907:chatbotapi:51
+2022-05-12 03:50:59,907:chatbotapi:Solution fetched
+2022-05-12 04:11:33,733:chatbotapi:Custom app text message received
+2022-05-12 04:11:34,650:chatbotapi:50 has confidence = 0.9998265
+2022-05-12 04:11:34,650:chatbotapi:50
+2022-05-12 04:11:34,655:chatbotapi:Solution fetched
+2022-05-12 04:30:29,994:chatbotapi:Received whatsapp-image data
+2022-05-12 04:30:29,995:chatbotapi:Whatsapp-Image section
+2022-05-12 04:30:33,394:chatbotapi:12 has confidence = 0.9999509
+2022-05-12 04:30:33,395:chatbotapi:12
+2022-05-12 04:30:33,399:chatbotapi:Solution fetched
+2022-06-08 14:16:33,009:chatbotapi:No file part in the request
+2022-06-08 14:16:53,700:chatbotapi:No file part in the request
+2022-06-08 14:18:00,447:chatbotapi:No file part in the request
+2022-06-08 14:21:45,074:chatbotapi:OCR section
+2022-06-08 14:21:45,075:chatbotapi:image1.jpg
+2022-06-08 14:21:45,076:chatbotapi:Image received successfully
+2022-06-08 14:21:45,272:chatbotapi:Processed OCR for received app-image image1.jpg
+2022-06-08 14:21:46,287:chatbotapi:2 has confidence = 0.99999726
+2022-06-08 14:21:46,287:chatbotapi:2
+2022-06-08 14:21:46,291:chatbotapi:Solution fetched
+2022-06-08 14:21:56,718:chatbotapi:No file part in the request
+2022-06-08 14:22:39,452:chatbotapi:OCR section
+2022-06-08 14:22:39,453:chatbotapi:sample1.png
+2022-06-08 14:22:39,453:chatbotapi:Image received successfully
+2022-06-08 14:22:39,654:chatbotapi:Processed OCR for received app-image sample1.png
+2022-06-08 14:22:39,831:chatbotapi:12 has confidence = 0.9999509
+2022-06-08 14:22:39,832:chatbotapi:12
+2022-06-08 14:22:39,836:chatbotapi:Solution fetched
+2022-06-08 17:01:33,787:chatbotapi:OCR section
+2022-06-08 17:01:33,788:chatbotapi:scaled_image_picker1435631937105505137.png
+2022-06-08 17:01:33,789:chatbotapi:Image received successfully
+2022-06-08 17:01:33,985:chatbotapi:Processed OCR for received app-image scaled_image_picker1435631937105505137.png
+2022-06-08 17:01:35,025:chatbotapi:1 has confidence = 0.79108465
+2022-06-08 17:01:35,025:chatbotapi:1
+2022-06-08 17:01:35,029:chatbotapi:Solution fetched
+2022-06-08 17:01:51,188:chatbotapi:OCR section
+2022-06-08 17:01:51,190:chatbotapi:scaled_image_picker7653043712031681721.png
+2022-06-08 17:01:51,190:chatbotapi:Image received successfully
+2022-06-08 17:01:51,386:chatbotapi:Processed OCR for received app-image scaled_image_picker7653043712031681721.png
+2022-06-08 17:01:51,563:chatbotapi:12 has confidence = 0.9999509
+2022-06-08 17:01:51,563:chatbotapi:12
+2022-06-08 17:01:51,567:chatbotapi:Solution fetched
+2022-06-08 17:02:08,080:chatbotapi:OCR section
+2022-06-08 17:02:08,082:chatbotapi:scaled_image_picker7943775984710446103.jpg
+2022-06-08 17:02:08,082:chatbotapi:Image received successfully
+2022-06-08 17:02:08,264:chatbotapi:Processed OCR for received app-image scaled_image_picker7943775984710446103.jpg
+2022-06-08 17:02:08,426:chatbotapi:2 has confidence = 0.99999726
+2022-06-08 17:02:08,427:chatbotapi:2
+2022-06-08 17:02:08,431:chatbotapi:Solution fetched
+2022-06-08 17:02:32,267:chatbotapi:OCR section
+2022-06-08 17:02:32,268:chatbotapi:scaled_image_picker2220230733655236834.png
+2022-06-08 17:02:32,268:chatbotapi:Image received successfully
+2022-06-08 17:02:32,469:chatbotapi:Processed OCR for received app-image scaled_image_picker2220230733655236834.png
+2022-06-08 17:02:32,629:chatbotapi:2 has confidence = 0.99999726
+2022-06-08 17:02:32,630:chatbotapi:2
+2022-06-08 17:02:32,634:chatbotapi:Solution fetched
+2022-07-24 03:35:02,527:chatbotapi:Custom app text message received
+2022-07-24 03:35:03,822:chatbotapi:24 has confidence = 0.9594244
+2022-07-24 03:35:03,822:chatbotapi:24
+2022-07-24 03:35:03,837:chatbotapi:Solution fetched
+2022-07-24 03:40:14,124:chatbotapi:Custom app text message received
+2022-07-24 03:40:15,014:chatbotapi:24 has confidence = 0.9594244
+2022-07-24 03:40:15,014:chatbotapi:24
+2022-07-24 03:40:15,018:chatbotapi:Solution fetched
+2022-07-24 03:45:43,569:chatbotapi:Custom app text message received
+2022-07-24 03:45:44,462:chatbotapi:24 has confidence = 0.9594244
+2022-07-24 03:45:44,463:chatbotapi:24
+2022-07-24 03:45:44,467:chatbotapi:Solution fetched
+2022-07-24 03:52:43,979:chatbotapi:Custom app text message received
+2022-07-24 03:52:44,879:chatbotapi:24 has confidence = 0.9594244
+2022-07-24 03:52:44,880:chatbotapi:24
+2022-07-24 03:52:44,884:chatbotapi:Solution fetched
+2022-07-24 03:54:29,892:chatbotapi:Custom app text message received
+2022-07-24 03:54:29,940:chatbotapi:24 has confidence = 0.9594244
+2022-07-24 03:54:29,941:chatbotapi:24
+2022-07-24 03:54:29,944:chatbotapi:Solution fetched
+2022-07-24 03:54:32,693:chatbotapi:Custom app text message received
+2022-07-24 03:54:32,742:chatbotapi:24 has confidence = 0.9594244
+2022-07-24 03:54:32,742:chatbotapi:24
+2022-07-24 03:54:32,746:chatbotapi:Solution fetched
+2022-07-24 03:54:38,073:chatbotapi:Custom app text message received
+2022-07-24 03:54:38,123:chatbotapi:24 has confidence = 0.9594244
+2022-07-24 03:54:38,124:chatbotapi:24
+2022-07-24 03:54:38,127:chatbotapi:Solution fetched
+2022-07-24 03:55:04,995:chatbotapi:Custom app text message received
+2022-07-24 03:55:05,044:chatbotapi:24 has confidence = 0.9594244
+2022-07-24 03:55:05,045:chatbotapi:24
+2022-07-24 03:55:05,049:chatbotapi:Solution fetched
+2022-07-24 03:55:07,453:chatbotapi:Custom app text message received
+2022-07-24 03:55:07,502:chatbotapi:24 has confidence = 0.9594244
+2022-07-24 03:55:07,503:chatbotapi:24
+2022-07-24 03:55:07,507:chatbotapi:Solution fetched
+2022-07-24 03:55:25,325:chatbotapi:Custom app text message received
+2022-07-24 03:55:25,374:chatbotapi:24 has confidence = 0.9594244
+2022-07-24 03:55:25,374:chatbotapi:24
+2022-07-24 03:55:25,378:chatbotapi:Solution fetched
+2022-07-24 03:55:49,359:chatbotapi:Custom app text message received
+2022-07-24 03:55:49,414:chatbotapi:24 has confidence = 0.9594244
+2022-07-24 03:55:49,414:chatbotapi:24
+2022-07-24 03:55:49,418:chatbotapi:Solution fetched
+2022-07-24 03:56:28,791:chatbotapi:Custom app text message received
+2022-07-24 03:56:28,839:chatbotapi:24 has confidence = 0.9594244
+2022-07-24 03:56:28,839:chatbotapi:24
+2022-07-24 03:56:28,844:chatbotapi:Solution fetched
+2022-07-24 04:04:26,245:chatbotapi:Custom app text message received
+2022-07-24 04:04:27,149:chatbotapi:24 has confidence = 0.9594244
+2022-07-24 04:04:27,149:chatbotapi:24
+2022-07-24 04:04:27,153:chatbotapi:Solution fetched
+2022-07-24 04:06:08,077:chatbotapi:Custom app text message received
+2022-07-24 04:06:08,126:chatbotapi:24 has confidence = 0.9594244
+2022-07-24 04:06:08,126:chatbotapi:24
+2022-07-24 04:06:08,130:chatbotapi:Solution fetched
+2022-07-24 04:08:38,784:chatbotapi:Custom app text message received
+2022-07-24 04:08:38,835:chatbotapi:24 has confidence = 0.9594244
+2022-07-24 04:08:38,836:chatbotapi:24
+2022-07-24 04:08:38,840:chatbotapi:Solution fetched
+2022-10-04 07:00:28,829:chatbotapi:Custom app text message received
+2022-10-04 07:00:29,829:chatbotapi:24 has confidence = 0.9594244
+2022-10-04 07:00:29,829:chatbotapi:24
+2022-10-04 07:00:29,834:chatbotapi:Solution fetched
+2022-10-04 07:37:53,059:chatbotapi:Custom app text message received
+2022-10-04 07:37:54,059:chatbotapi:1 has confidence = 0.79108435
+2022-10-04 07:37:54,059:chatbotapi:1
+2022-10-04 07:37:54,064:chatbotapi:Solution fetched
+2022-10-04 07:40:05,144:chatbotapi:Custom app text message received
+2022-10-04 07:40:05,210:chatbotapi:24 has confidence = 0.9594244
+2022-10-04 07:40:05,211:chatbotapi:24
+2022-10-04 07:40:05,214:chatbotapi:Solution fetched
+2022-10-04 07:40:18,206:chatbotapi:Custom app text message received
+2022-10-04 07:40:18,273:chatbotapi:1 has confidence = 0.79108435
+2022-10-04 07:40:18,274:chatbotapi:1
+2022-10-04 07:40:18,277:chatbotapi:Solution fetched
+2022-10-04 08:49:28,399:chatbotapi:Received whatsapp-JSON data
+2022-10-04 08:49:29,397:chatbotapi:1 has confidence = 0.79108435
+2022-10-04 08:49:29,398:chatbotapi:1
+2022-10-04 08:49:29,402:chatbotapi:Solution fetched
+2022-10-04 08:58:08,421:chatbotapi:Received whatsapp-JSON data
+2022-10-04 08:58:09,430:chatbotapi:1 has confidence = 0.79108435
+2022-10-04 08:58:09,431:chatbotapi:1
+2022-10-04 08:58:09,435:chatbotapi:Solution fetched
+2022-10-04 09:01:23,680:chatbotapi:Custom app text message received
+2022-10-04 09:01:23,746:chatbotapi:24 has confidence = 0.9594244
+2022-10-04 09:01:23,747:chatbotapi:24
+2022-10-04 09:01:23,751:chatbotapi:Solution fetched
+2022-10-04 09:01:33,625:chatbotapi:Custom app text message received
+2022-10-04 09:01:33,696:chatbotapi:1 has confidence = 0.79108435
+2022-10-04 09:01:33,697:chatbotapi:1
+2022-10-04 09:01:33,701:chatbotapi:Solution fetched
+2022-10-10 12:24:01,808:chatbotapi:Custom app text message received
+2022-10-10 12:24:02,827:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 218, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 437, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 389, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 284, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File "C:\inetpub\wwwroot\chatbotapi\.\chatbotapi.py", line 248, in error_upload
+    index = get_index_value(error_data)
+  File "C:\inetpub\wwwroot\chatbotapi\.\chatbotapi.py", line 151, in get_index_value
+    resolution1 = get_final_output(prediction, uniqueResolution)
+  File "C:\inetpub\wwwroot\chatbotapi\.\chatbotapi.py", line 193, in get_final_output
+    classes = classes[ids]
+IndexError: index 114 is out of bounds for axis 0 with size 95
+2022-10-10 12:24:17,992:chatbotapi:Custom app text message received
+2022-10-10 12:24:18,059:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 218, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 437, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 389, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 284, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File "C:\inetpub\wwwroot\chatbotapi\.\chatbotapi.py", line 248, in error_upload
+    index = get_index_value(error_data)
+  File "C:\inetpub\wwwroot\chatbotapi\.\chatbotapi.py", line 151, in get_index_value
+    resolution1 = get_final_output(prediction, uniqueResolution)
+  File "C:\inetpub\wwwroot\chatbotapi\.\chatbotapi.py", line 193, in get_final_output
+    classes = classes[ids]
+IndexError: index 114 is out of bounds for axis 0 with size 95
+2022-10-10 12:25:17,794:chatbotapi:Custom app text message received
+2022-10-10 12:25:17,866:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 218, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 437, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 389, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 284, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File "C:\inetpub\wwwroot\chatbotapi\.\chatbotapi.py", line 248, in error_upload
+    index = get_index_value(error_data)
+  File "C:\inetpub\wwwroot\chatbotapi\.\chatbotapi.py", line 151, in get_index_value
+    resolution1 = get_final_output(prediction, uniqueResolution)
+  File "C:\inetpub\wwwroot\chatbotapi\.\chatbotapi.py", line 193, in get_final_output
+    classes = classes[ids]
+IndexError: index 114 is out of bounds for axis 0 with size 95
+2022-10-10 12:29:45,553:chatbotapi:Custom app text message received
+2022-10-10 12:38:18,052:chatbotapi:Custom app text message received
+2022-10-10 12:38:19,049:chatbotapi:115 has confidence = 0.8894422
+2022-10-10 12:38:19,054:chatbotapi:115
+2022-10-10 12:38:19,058:chatbotapi:Solution fetched
+2022-10-10 12:38:28,508:chatbotapi:Custom app text message received
+2022-10-10 12:38:28,575:chatbotapi:116 has confidence = 0.8851909
+2022-10-10 12:38:28,578:chatbotapi:116
+2022-10-10 12:38:28,581:chatbotapi:Solution fetched
+2022-10-10 12:38:35,516:chatbotapi:Custom app text message received
+2022-10-10 12:38:35,587:chatbotapi:110 has confidence = 0.99908507
+2022-10-10 12:38:35,589:chatbotapi:110
+2022-10-10 12:38:35,593:chatbotapi:Solution fetched
+2022-10-10 12:38:55,822:chatbotapi:Custom app text message received
+2022-10-10 12:38:55,890:chatbotapi:116 has confidence = 0.8851909
+2022-10-10 12:38:55,892:chatbotapi:116
+2022-10-10 12:38:55,895:chatbotapi:Solution fetched
+2022-10-10 12:39:09,604:chatbotapi:Custom app text message received
+2022-10-10 12:39:09,669:chatbotapi:1 has confidence = 0.99984324
+2022-10-10 12:39:09,671:chatbotapi:1
+2022-10-10 12:39:09,675:chatbotapi:Solution fetched
+2022-10-10 12:40:04,477:chatbotapi:Get Request test route.
+2022-10-10 12:40:08,023:chatbotapi:Custom app text message received
+2022-10-10 12:40:08,996:chatbotapi:115 has confidence = 0.8894422
+2022-10-10 12:40:08,997:chatbotapi:115
+2022-10-10 12:40:09,001:chatbotapi:Solution fetched
+2022-10-10 12:42:57,943:chatbotapi:Received whatsapp-JSON data
+2022-10-10 12:42:58,006:chatbotapi:1 has confidence = 0.99984324
+2022-10-10 12:42:58,007:chatbotapi:1
+2022-10-10 12:42:58,011:chatbotapi:Solution fetched
+2022-10-10 12:43:03,186:chatbotapi:Received whatsapp-JSON data
+2022-10-10 12:43:03,251:chatbotapi:110 has confidence = 0.99908507
+2022-10-10 12:43:03,252:chatbotapi:110
+2022-10-10 12:43:03,256:chatbotapi:Solution fetched
+2022-10-10 12:43:48,316:chatbotapi:Received whatsapp-image data
+2022-10-10 12:43:48,316:chatbotapi:Whatsapp-Image section
+2022-10-10 12:43:49,977:chatbotapi:Exception on /bot/whatsapp [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\inetpub\wwwroot\chatbotapi\.\chatbotapi.py", line 379, in whatsapp_upload
+    with open(imageDirectory / jsonMessage, 'w') as jsonfile:
+PermissionError: [Errno 13] Permission denied: 'C:\\inetpub\\wwwroot\\iAssist_IT_support\\User_data\\MMbf677cd67b6bbee1970d1cf8137992dc.json'
+2022-10-10 12:45:19,838:chatbotapi:Received whatsapp-image data
+2022-10-10 12:45:19,838:chatbotapi:Whatsapp-Image section
+2022-10-10 12:45:21,470:chatbotapi:Exception on /bot/whatsapp [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\inetpub\wwwroot\chatbotapi\.\chatbotapi.py", line 379, in whatsapp_upload
+    with open(imageDirectory / jsonMessage, 'w') as jsonfile:
+PermissionError: [Errno 13] Permission denied: 'C:\\inetpub\\wwwroot\\iAssist_IT_support\\User_data\\MM5d22a3a576adbe570b17b9bf61c194ac.json'
+2022-10-10 12:47:22,939:chatbotapi:Received whatsapp-image data
+2022-10-10 12:47:22,940:chatbotapi:Whatsapp-Image section
+2022-10-10 12:47:24,892:chatbotapi:1 has confidence = 0.99984324
+2022-10-10 12:47:24,893:chatbotapi:1
+2022-10-10 12:47:24,897:chatbotapi:Solution fetched
+2022-10-10 12:47:32,209:chatbotapi:Received whatsapp-JSON data
+2022-10-10 12:47:32,278:chatbotapi:110 has confidence = 0.99908507
+2022-10-10 12:47:32,279:chatbotapi:110
+2022-10-10 12:47:32,283:chatbotapi:Solution fetched
+2022-10-10 12:47:39,045:chatbotapi:Received whatsapp-JSON data
+2022-10-10 12:47:39,109:chatbotapi:109 has confidence = 0.9981692
+2022-10-10 12:47:39,110:chatbotapi:109
+2022-10-10 12:47:39,114:chatbotapi:Solution fetched
+2022-10-10 12:47:45,202:chatbotapi:Received whatsapp-JSON data
+2022-10-10 12:47:45,266:chatbotapi:Exception on /bot/whatsapp [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\inetpub\wwwroot\chatbotapi\.\chatbotapi.py", line 490, in whatsapp_upload
+    index3 = get_index_value(msg)
+  File "C:\inetpub\wwwroot\chatbotapi\.\chatbotapi.py", line 157, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-10-10 12:54:47,201:chatbotapi:Custom app text message received
+2022-10-10 12:54:47,267:chatbotapi:115 has confidence = 0.8894422
+2022-10-10 12:54:47,268:chatbotapi:115
+2022-10-10 12:54:47,272:chatbotapi:Solution fetched
+2022-10-10 12:54:57,962:chatbotapi:Custom app text message received
+2022-10-10 12:54:58,032:chatbotapi:115 has confidence = 0.8894422
+2022-10-10 12:54:58,033:chatbotapi:115
+2022-10-10 12:54:58,037:chatbotapi:Solution fetched
+2022-10-10 13:04:48,868:chatbotapi:Custom app text message received
+2022-10-10 13:04:49,872:chatbotapi:110 has confidence = 0.99908507
+2022-10-10 13:04:49,873:chatbotapi:110
+2022-10-10 13:04:49,877:chatbotapi:Solution fetched
+2022-10-11 05:40:52,692:chatbotapi:Received whatsapp-image data
+2022-10-11 05:40:52,692:chatbotapi:Whatsapp-Image section
+2022-10-11 05:40:55,674:chatbotapi:1 has confidence = 0.99984324
+2022-10-11 05:40:55,675:chatbotapi:1
+2022-10-11 05:40:55,680:chatbotapi:Solution fetched
+2022-10-11 05:41:48,508:chatbotapi:Received whatsapp-JSON data
+2022-10-11 05:41:48,579:chatbotapi:110 has confidence = 0.99908507
+2022-10-11 05:41:48,580:chatbotapi:110
+2022-10-11 05:41:48,584:chatbotapi:Solution fetched
+2022-10-11 05:42:21,542:chatbotapi:Received whatsapp-image data
+2022-10-11 05:42:21,543:chatbotapi:Whatsapp-Image section
+2022-10-11 05:42:23,410:chatbotapi:1 has confidence = 0.99984324
+2022-10-11 05:42:23,411:chatbotapi:1
+2022-10-11 05:42:23,415:chatbotapi:Solution fetched
+2022-10-11 06:43:42,124:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 218, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 437, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 389, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 284, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File "C:\inetpub\wwwroot\chatbotapi\.\chatbotapi.py", line 268, in error_upload
+    if file.filename == '':
+AttributeError: 'ImmutableMultiDict' object has no attribute 'filename'
+2022-10-11 06:55:42,922:chatbotapi:Custom app text message received
+2022-10-11 06:55:43,986:chatbotapi:109 has confidence = 0.9981692
+2022-10-11 06:55:43,986:chatbotapi:109
+2022-10-11 06:55:43,991:chatbotapi:Solution fetched
+2022-10-11 06:56:00,547:chatbotapi:Custom app text message received
+2022-10-11 06:56:00,620:chatbotapi:108 has confidence = 0.9822636
+2022-10-11 06:56:00,621:chatbotapi:108
+2022-10-11 06:56:00,626:chatbotapi:Solution fetched
+2022-10-11 06:56:29,586:chatbotapi:Custom app text message received
+2022-10-11 06:56:29,662:chatbotapi:1 has confidence = 0.99984324
+2022-10-11 06:56:29,663:chatbotapi:1
+2022-10-11 06:56:29,669:chatbotapi:Solution fetched
+2022-10-11 06:56:39,951:chatbotapi:Custom app text message received
+2022-10-11 06:56:40,021:chatbotapi:115 has confidence = 0.8894422
+2022-10-11 06:56:40,022:chatbotapi:115
+2022-10-11 06:56:40,026:chatbotapi:Solution fetched
+2022-10-11 06:56:48,344:chatbotapi:Custom app text message received
+2022-10-11 06:56:48,420:chatbotapi:116 has confidence = 0.8851909
+2022-10-11 06:56:48,421:chatbotapi:116
+2022-10-11 06:56:48,426:chatbotapi:Solution fetched
+2022-10-11 07:00:41,182:chatbotapi:OCR section
+2022-10-11 07:00:41,184:chatbotapi:image1.jpg
+2022-10-11 07:00:41,184:chatbotapi:Image received successfully
+2022-10-11 07:00:41,258:chatbotapi:Processed OCR for received app-image image1.jpg
+2022-10-11 07:00:41,437:chatbotapi:2 has confidence = 0.99999976
+2022-10-11 07:00:41,439:chatbotapi:2
+2022-10-11 07:00:41,443:chatbotapi:Solution fetched
+2022-10-11 07:01:07,864:chatbotapi:OCR section
+2022-10-11 07:01:07,866:chatbotapi:scaled_image_picker7191674186361091674.png
+2022-10-11 07:01:07,866:chatbotapi:Image received successfully
+2022-10-11 07:01:07,957:chatbotapi:Processed OCR for received app-image scaled_image_picker7191674186361091674.png
+2022-10-11 07:01:08,150:chatbotapi:12 has confidence = 0.9999895
+2022-10-11 07:01:08,151:chatbotapi:12
+2022-10-11 07:01:08,156:chatbotapi:Solution fetched
+2022-10-11 07:01:20,450:chatbotapi:Custom app text message received
+2022-10-11 07:01:20,524:chatbotapi:1 has confidence = 0.99984324
+2022-10-11 07:01:20,525:chatbotapi:1
+2022-10-11 07:01:20,529:chatbotapi:Solution fetched
+2022-10-11 07:01:24,517:chatbotapi:Custom app text message received
+2022-10-11 07:01:24,592:chatbotapi:116 has confidence = 0.8851909
+2022-10-11 07:01:24,593:chatbotapi:116
+2022-10-11 07:01:24,598:chatbotapi:Solution fetched
+2022-10-11 07:02:20,046:chatbotapi:Received whatsapp-audio data
+2022-10-11 07:02:22,481:chatbotapi:Exception on /bot/whatsapp [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\deepgram\_utils.py", line 90, in attempt
+    async with aiohttp.request(
+  File "C:\Python\lib\site-packages\aiohttp\client.py", line 1161, in __aenter__
+    self._resp = await self._coro
+  File "C:\Python\lib\site-packages\aiohttp\client.py", line 625, in _request
+    resp.raise_for_status()
+  File "C:\Python\lib\site-packages\aiohttp\client_reqrep.py", line 1000, in raise_for_status
+    raise ClientResponseError(
+aiohttp.client_exceptions.ClientResponseError: 402, message='Payment Required', url=URL('https://api.deepgram.com/v1/listen?punctuate=true')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\inetpub\wwwroot\chatbotapi\.\chatbotapi.py", line 451, in whatsapp_upload
+    transcribedErrorMessage = asyncio.run(transcribe_audio(audioPath))
+  File "C:\Python\lib\asyncio\runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "C:\Python\lib\asyncio\base_events.py", line 616, in run_until_complete
+    return future.result()
+  File "C:\inetpub\wwwroot\chatbotapi\.\chatbotapi.py", line 447, in transcribe_audio
+    response1 = await dg_client.transcription.prerecorded(source, options={"punctuate": True})
+  File "C:\Python\lib\site-packages\deepgram\transcription.py", line 188, in prerecorded
+    return await PrerecordedTranscription(
+  File "C:\Python\lib\site-packages\deepgram\transcription.py", line 35, in __call__
+    return await _request(
+  File "C:\Python\lib\site-packages\deepgram\_utils.py", line 109, in _request
+    return await attempt()
+  File "C:\Python\lib\site-packages\deepgram\_utils.py", line 102, in attempt
+    raise (Exception(f'DG: {exc}') if exc.status < 500 else exc)
+Exception: DG: 402, message='Payment Required', url=URL('https://api.deepgram.com/v1/listen?punctuate=true')
+2022-10-11 07:05:40,896:chatbotapi:Received whatsapp-audio data
+2022-10-11 07:05:43,372:chatbotapi:Exception on /bot/whatsapp [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\deepgram\_utils.py", line 90, in attempt
+    async with aiohttp.request(
+  File "C:\Python\lib\site-packages\aiohttp\client.py", line 1161, in __aenter__
+    self._resp = await self._coro
+  File "C:\Python\lib\site-packages\aiohttp\client.py", line 625, in _request
+    resp.raise_for_status()
+  File "C:\Python\lib\site-packages\aiohttp\client_reqrep.py", line 1000, in raise_for_status
+    raise ClientResponseError(
+aiohttp.client_exceptions.ClientResponseError: 402, message='Payment Required', url=URL('https://api.deepgram.com/v1/listen?punctuate=true')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\inetpub\wwwroot\chatbotapi\.\chatbotapi.py", line 451, in whatsapp_upload
+    transcribedErrorMessage = asyncio.run(transcribe_audio(audioPath))
+  File "C:\Python\lib\asyncio\runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "C:\Python\lib\asyncio\base_events.py", line 616, in run_until_complete
+    return future.result()
+  File "C:\inetpub\wwwroot\chatbotapi\.\chatbotapi.py", line 447, in transcribe_audio
+    response1 = await dg_client.transcription.prerecorded(source, options={"punctuate": True})
+  File "C:\Python\lib\site-packages\deepgram\transcription.py", line 188, in prerecorded
+    return await PrerecordedTranscription(
+  File "C:\Python\lib\site-packages\deepgram\transcription.py", line 35, in __call__
+    return await _request(
+  File "C:\Python\lib\site-packages\deepgram\_utils.py", line 109, in _request
+    return await attempt()
+  File "C:\Python\lib\site-packages\deepgram\_utils.py", line 102, in attempt
+    raise (Exception(f'DG: {exc}') if exc.status < 500 else exc)
+Exception: DG: 402, message='Payment Required', url=URL('https://api.deepgram.com/v1/listen?punctuate=true')
+2022-10-12 08:09:20,135:chatbotapi:Received whatsapp-JSON data
+2022-10-12 08:09:21,692:chatbotapi:1 has confidence = 0.99984324
+2022-10-12 08:09:21,693:chatbotapi:1
+2022-10-12 08:09:21,705:chatbotapi:Solution fetched
+2022-10-13 05:54:39,648:chatbotapi:OCR section
+2022-10-13 05:54:39,657:chatbotapi:585414.jpg-1665640464216.jpg
+2022-10-13 05:54:39,658:chatbotapi:Image received successfully
+2022-10-13 05:54:39,871:chatbotapi:Processed OCR for received app-image 585414.jpg-1665640464216.jpg
+2022-10-13 05:54:44,070:chatbotapi:116 has confidence = 0.7921512
+2022-10-13 05:54:44,071:chatbotapi:116
+2022-10-13 05:54:44,075:chatbotapi:Solution fetched
+2022-10-13 05:59:36,708:chatbotapi:Custom app text message received
+2022-10-13 05:59:36,771:chatbotapi:1 has confidence = 0.99984324
+2022-10-13 05:59:36,772:chatbotapi:1
+2022-10-13 05:59:36,775:chatbotapi:Solution fetched
+2022-10-13 05:59:49,546:chatbotapi:OCR section
+2022-10-13 05:59:49,551:chatbotapi:541326.jpg-1665640785423.jpg
+2022-10-13 05:59:49,551:chatbotapi:Image received successfully
+2022-10-13 05:59:49,741:chatbotapi:Processed OCR for received app-image 541326.jpg-1665640785423.jpg
+2022-10-13 05:59:51,091:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 218, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 437, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 389, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 284, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File "C:\inetpub\wwwroot\chatbotapi\.\chatbotapi.py", line 288, in error_upload
+    index = get_index_value(t)
+  File "C:\inetpub\wwwroot\chatbotapi\.\chatbotapi.py", line 157, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-10-13 06:01:57,812:chatbotapi:Custom app text message received
+2022-10-13 06:01:57,883:chatbotapi:1 has confidence = 0.99894255
+2022-10-13 06:01:57,884:chatbotapi:1
+2022-10-13 06:01:57,886:chatbotapi:Solution fetched
+2022-10-13 06:03:44,368:chatbotapi:Custom app text message received
+2022-10-13 06:03:44,446:chatbotapi:116 has confidence = 0.7921512
+2022-10-13 06:03:44,447:chatbotapi:116
+2022-10-13 06:03:44,450:chatbotapi:Solution fetched
+2022-10-13 06:03:46,217:chatbotapi:Custom app text message received
+2022-10-13 06:03:46,289:chatbotapi:116 has confidence = 0.7921512
+2022-10-13 06:03:46,290:chatbotapi:116
+2022-10-13 06:03:46,295:chatbotapi:Solution fetched
+2022-10-13 06:03:47,686:chatbotapi:Custom app text message received
+2022-10-13 06:03:47,765:chatbotapi:116 has confidence = 0.7921512
+2022-10-13 06:03:47,766:chatbotapi:116
+2022-10-13 06:03:47,771:chatbotapi:Solution fetched
+2022-10-13 06:09:42,425:chatbotapi:Custom app text message received
+2022-10-13 06:09:43,435:chatbotapi:116 has confidence = 0.7921512
+2022-10-13 06:09:43,436:chatbotapi:116
+2022-10-13 06:09:43,440:chatbotapi:Solution fetched
+2022-10-13 06:09:45,441:chatbotapi:Custom app text message received
+2022-10-13 06:09:46,462:chatbotapi:116 has confidence = 0.7921512
+2022-10-13 06:09:46,463:chatbotapi:116
+2022-10-13 06:09:46,467:chatbotapi:Solution fetched
+2022-10-13 06:09:50,183:chatbotapi:Custom app text message received
+2022-10-13 06:09:50,257:chatbotapi:108 has confidence = 0.9386419
+2022-10-13 06:09:50,258:chatbotapi:108
+2022-10-13 06:09:50,262:chatbotapi:Solution fetched
+2022-10-13 06:09:50,917:chatbotapi:Custom app text message received
+2022-10-13 06:09:50,991:chatbotapi:108 has confidence = 0.9386419
+2022-10-13 06:09:50,991:chatbotapi:108
+2022-10-13 06:09:50,995:chatbotapi:Solution fetched
+2022-10-13 06:10:01,689:chatbotapi:Custom app text message received
+2022-10-13 06:10:01,761:chatbotapi:110 has confidence = 0.97226906
+2022-10-13 06:10:01,762:chatbotapi:110
+2022-10-13 06:10:01,766:chatbotapi:Solution fetched
+2022-10-13 06:10:04,680:chatbotapi:Custom app text message received
+2022-10-13 06:10:04,755:chatbotapi:116 has confidence = 0.7921512
+2022-10-13 06:10:04,756:chatbotapi:116
+2022-10-13 06:10:04,760:chatbotapi:Solution fetched
+2022-10-13 06:10:18,494:chatbotapi:Custom app text message received
+2022-10-13 06:10:18,842:chatbotapi:108 has confidence = 0.9822636
+2022-10-13 06:10:18,842:chatbotapi:108
+2022-10-13 06:10:18,848:chatbotapi:Solution fetched
+2022-10-13 06:10:36,486:chatbotapi:Custom app text message received
+2022-10-13 06:10:36,817:chatbotapi:108 has confidence = 0.9822636
+2022-10-13 06:10:36,818:chatbotapi:108
+2022-10-13 06:10:36,822:chatbotapi:Solution fetched
+2022-10-13 06:11:22,932:chatbotapi:Custom app text message received
+2022-10-13 06:11:23,002:chatbotapi:116 has confidence = 0.7921512
+2022-10-13 06:11:23,003:chatbotapi:116
+2022-10-13 06:11:23,007:chatbotapi:Solution fetched
+2022-10-13 06:11:25,602:chatbotapi:Custom app text message received
+2022-10-13 06:11:25,673:chatbotapi:116 has confidence = 0.7921512
+2022-10-13 06:11:25,673:chatbotapi:116
+2022-10-13 06:11:25,678:chatbotapi:Solution fetched
+2022-10-13 06:11:54,302:chatbotapi:Custom app text message received
+2022-10-13 06:11:54,372:chatbotapi:116 has confidence = 0.7921512
+2022-10-13 06:11:54,373:chatbotapi:116
+2022-10-13 06:11:54,377:chatbotapi:Solution fetched
+2022-10-13 06:11:58,243:chatbotapi:Custom app text message received
+2022-10-13 06:11:58,309:chatbotapi:116 has confidence = 0.7921512
+2022-10-13 06:11:58,310:chatbotapi:116
+2022-10-13 06:11:58,314:chatbotapi:Solution fetched
+2022-10-13 06:15:21,588:chatbotapi:Custom app text message received
+2022-10-13 06:15:21,820:chatbotapi:116 has confidence = 0.7921512
+2022-10-13 06:15:21,823:chatbotapi:116
+2022-10-13 06:15:21,830:chatbotapi:Solution fetched
+2022-10-13 06:15:23,901:chatbotapi:Custom app text message received
+2022-10-13 06:15:24,227:chatbotapi:116 has confidence = 0.7921512
+2022-10-13 06:15:24,227:chatbotapi:116
+2022-10-13 06:15:24,250:chatbotapi:Solution fetched
+2022-10-13 06:15:29,024:chatbotapi:Custom app text message received
+2022-10-13 06:15:29,387:chatbotapi:116 has confidence = 0.7921512
+2022-10-13 06:15:29,387:chatbotapi:116
+2022-10-13 06:15:29,392:chatbotapi:Solution fetched
+2022-10-13 06:15:38,271:chatbotapi:Custom app text message received
+2022-10-13 06:15:38,616:chatbotapi:110 has confidence = 0.9591635
+2022-10-13 06:15:38,617:chatbotapi:110
+2022-10-13 06:15:38,622:chatbotapi:Solution fetched
+2022-10-13 06:15:46,436:chatbotapi:Custom app text message received
+2022-10-13 06:15:46,551:chatbotapi:Exception on /bot/app [POST]
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Python\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 218, in __call__
+    return call_result.result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 437, in result
+    return self.__get_result()
+  File "C:\Python\lib\concurrent\futures\_base.py", line 389, in __get_result
+    raise self._exception
+  File "C:\Python\lib\site-packages\asgiref\sync.py", line 284, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File "C:\inetpub\wwwroot\chatbotapi\.\chatbotapi.py", line 304, in error_upload
+    index = get_index_value(error_data)
+  File "C:\inetpub\wwwroot\chatbotapi\.\chatbotapi.py", line 157, in get_index_value
+    resolution1 = int(resolution1[:3])
+TypeError: 'NoneType' object is not subscriptable
+2022-10-13 06:16:11,556:chatbotapi:Custom app text message received
+2022-10-13 06:16:11,627:chatbotapi:110 has confidence = 0.8626559
+2022-10-13 06:16:11,628:chatbotapi:110
+2022-10-13 06:16:11,632:chatbotapi:Solution fetched
+2022-10-13 06:18:32,509:chatbotapi:Custom app text message received
+2022-10-13 06:18:32,581:chatbotapi:110 has confidence = 0.8626559
+2022-10-13 06:18:32,582:chatbotapi:110
+2022-10-13 06:18:32,586:chatbotapi:Solution fetched
+2022-10-13 06:18:38,690:chatbotapi:Custom app text message received
+2022-10-13 06:18:38,758:chatbotapi:110 has confidence = 0.8481049
+2022-10-13 06:18:38,759:chatbotapi:110
+2022-10-13 06:18:38,764:chatbotapi:Solution fetched
+2022-10-13 06:25:48,454:chatbotapi:Custom app text message received
+2022-10-13 06:25:49,467:chatbotapi:1 has confidence = 0.99984324
+2022-10-13 06:25:49,468:chatbotapi:1
+2022-10-13 06:25:49,472:chatbotapi:Solution fetched
+2022-10-13 06:47:50,243:chatbotapi:Custom app text message received
+2022-10-13 06:47:51,194:chatbotapi:1 has confidence = 0.99984324
+2022-10-13 06:47:51,194:chatbotapi:1
+2022-10-13 06:47:51,199:chatbotapi:Solution fetched
+2022-10-13 06:47:58,838:chatbotapi:Custom app text message received
+2022-10-13 06:47:59,811:chatbotapi:116 has confidence = 0.7921512
+2022-10-13 06:47:59,812:chatbotapi:116
+2022-10-13 06:47:59,816:chatbotapi:Solution fetched
+2022-10-13 06:48:10,563:chatbotapi:Custom app text message received
+2022-10-13 06:48:10,628:chatbotapi:1 has confidence = 0.99984324
+2022-10-13 06:48:10,629:chatbotapi:1
+2022-10-13 06:48:10,633:chatbotapi:Solution fetched
+2022-10-13 09:16:47,217:chatbotapi:Custom app text message received
+2022-10-13 09:16:48,160:chatbotapi:1 has confidence = 0.99984324
+2022-10-13 09:16:48,161:chatbotapi:1
+2022-10-13 09:16:48,165:chatbotapi:Solution fetched
+2022-10-13 09:16:58,192:chatbotapi:Custom app text message received
+2022-10-13 09:16:58,263:chatbotapi:116 has confidence = 0.8851909
+2022-10-13 09:16:58,265:chatbotapi:116
+2022-10-13 09:16:58,272:chatbotapi:Solution fetched
+2022-10-13 09:17:08,596:chatbotapi:Custom app text message received
+2022-10-13 09:17:08,679:chatbotapi:115 has confidence = 0.8894422
+2022-10-13 09:17:08,680:chatbotapi:115
+2022-10-13 09:17:08,684:chatbotapi:Solution fetched
+2022-10-13 10:24:38,238:chatbotapi:Custom app text message received
+2022-10-13 10:24:39,194:chatbotapi:116 has confidence = 0.7921512
+2022-10-13 10:24:39,194:chatbotapi:116
+2022-10-13 10:24:39,198:chatbotapi:Solution fetched
+2022-10-13 10:24:53,160:chatbotapi:Custom app text message received
+2022-10-13 10:24:53,235:chatbotapi:109 has confidence = 0.9981692
+2022-10-13 10:24:53,236:chatbotapi:109
+2022-10-13 10:24:53,240:chatbotapi:Solution fetched
+2022-10-13 10:25:21,122:chatbotapi:Custom app text message received
+2022-10-13 10:25:21,193:chatbotapi:2 has confidence = 1.0
+2022-10-13 10:25:21,195:chatbotapi:2
+2022-10-13 10:25:21,202:chatbotapi:Solution fetched
+2022-10-13 10:25:32,254:chatbotapi:Custom app text message received
+2022-10-13 10:25:32,336:chatbotapi:116 has confidence = 0.8851909
+2022-10-13 10:25:32,337:chatbotapi:116
+2022-10-13 10:25:32,340:chatbotapi:Solution fetched
+2022-10-13 10:25:42,785:chatbotapi:Custom app text message received
+2022-10-13 10:25:42,862:chatbotapi:115 has confidence = 0.8894422
+2022-10-13 10:25:42,863:chatbotapi:115
+2022-10-13 10:25:42,867:chatbotapi:Solution fetched
+2022-10-17 07:55:18,449:chatbotapi:Custom app text message received
+2022-10-17 07:55:19,426:chatbotapi:110 has confidence = 0.99908507
+2022-10-17 07:55:19,427:chatbotapi:110
+2022-10-17 07:55:19,431:chatbotapi:Solution fetched
+2022-10-17 07:56:00,246:chatbotapi:Custom app text message received
+2022-10-17 07:56:00,312:chatbotapi:110 has confidence = 0.99908507
+2022-10-17 07:56:00,313:chatbotapi:110
+2022-10-17 07:56:00,317:chatbotapi:Solution fetched
+2022-10-17 07:56:08,816:chatbotapi:Custom app text message received
+2022-10-17 07:56:08,880:chatbotapi:110 has confidence = 0.99908507
+2022-10-17 07:56:08,881:chatbotapi:110
+2022-10-17 07:56:08,884:chatbotapi:Solution fetched
+2022-10-17 07:57:55,354:chatbotapi:Custom app text message received
+2022-10-17 07:57:55,420:chatbotapi:110 has confidence = 0.99908507
+2022-10-17 07:57:55,421:chatbotapi:110
+2022-10-17 07:57:55,424:chatbotapi:Solution fetched
+2022-10-17 08:02:10,328:chatbotapi:Custom app text message received
+2022-10-17 08:02:10,394:chatbotapi:110 has confidence = 0.99908507
+2022-10-17 08:02:10,394:chatbotapi:110
+2022-10-17 08:02:10,399:chatbotapi:Solution fetched
+2022-10-17 08:02:12,070:chatbotapi:Custom app text message received
+2022-10-17 08:02:12,132:chatbotapi:110 has confidence = 0.99908507
+2022-10-17 08:02:12,133:chatbotapi:110
+2022-10-17 08:02:12,137:chatbotapi:Solution fetched
+2022-10-17 08:02:13,056:chatbotapi:Custom app text message received
+2022-10-17 08:02:13,122:chatbotapi:110 has confidence = 0.99908507
+2022-10-17 08:02:13,122:chatbotapi:110
+2022-10-17 08:02:13,127:chatbotapi:Solution fetched
+2022-10-17 08:02:13,703:chatbotapi:Custom app text message received
+2022-10-17 08:02:13,770:chatbotapi:110 has confidence = 0.99908507
+2022-10-17 08:02:13,771:chatbotapi:110
+2022-10-17 08:02:13,775:chatbotapi:Solution fetched
+2022-10-17 08:02:14,409:chatbotapi:Custom app text message received
+2022-10-17 08:02:14,476:chatbotapi:110 has confidence = 0.99908507
+2022-10-17 08:02:14,477:chatbotapi:110
+2022-10-17 08:02:14,481:chatbotapi:Solution fetched
+2022-10-17 08:02:15,043:chatbotapi:Custom app text message received
+2022-10-17 08:02:15,108:chatbotapi:110 has confidence = 0.99908507
+2022-10-17 08:02:15,109:chatbotapi:110
+2022-10-17 08:02:15,113:chatbotapi:Solution fetched
+2022-10-17 08:02:15,670:chatbotapi:Custom app text message received
+2022-10-17 08:02:15,736:chatbotapi:110 has confidence = 0.99908507
+2022-10-17 08:02:15,737:chatbotapi:110
+2022-10-17 08:02:15,741:chatbotapi:Solution fetched
+2022-10-17 08:03:04,840:chatbotapi:Custom app text message received
+2022-10-17 08:03:04,910:chatbotapi:110 has confidence = 0.99908507
+2022-10-17 08:03:04,911:chatbotapi:110
+2022-10-17 08:03:04,915:chatbotapi:Solution fetched
+2022-10-17 08:10:33,492:chatbotapi:Custom app text message received
+2022-10-17 08:10:34,459:chatbotapi:110 has confidence = 0.99908507
+2022-10-17 08:10:34,460:chatbotapi:110
+2022-10-17 08:10:34,464:chatbotapi:Solution fetched
+2022-10-17 08:10:45,978:chatbotapi:Custom app text message received
+2022-10-17 08:10:46,042:chatbotapi:109 has confidence = 0.9981692
+2022-10-17 08:10:46,043:chatbotapi:109
+2022-10-17 08:10:46,047:chatbotapi:Solution fetched
+2022-10-17 08:11:03,249:chatbotapi:Custom app text message received
+2022-10-17 08:11:03,311:chatbotapi:1 has confidence = 0.99984324
+2022-10-17 08:11:03,311:chatbotapi:1
+2022-10-17 08:11:03,315:chatbotapi:Solution fetched
+2022-10-17 08:11:14,468:chatbotapi:Custom app text message received
+2022-10-17 08:11:14,532:chatbotapi:110 has confidence = 0.99908507
+2022-10-17 08:11:14,532:chatbotapi:110
+2022-10-17 08:11:14,536:chatbotapi:Solution fetched
+2022-10-17 08:11:20,245:chatbotapi:Custom app text message received
+2022-10-17 08:11:20,308:chatbotapi:109 has confidence = 0.9981692
+2022-10-17 08:11:20,309:chatbotapi:109
+2022-10-17 08:11:20,313:chatbotapi:Solution fetched
+2022-10-17 08:11:37,650:chatbotapi:Custom app text message received
+2022-10-17 08:11:37,717:chatbotapi:1 has confidence = 0.99984324
+2022-10-17 08:11:37,717:chatbotapi:1
+2022-10-17 08:11:37,721:chatbotapi:Solution fetched
+2022-10-17 08:12:31,990:chatbotapi:Received whatsapp-JSON data
+2022-10-17 08:12:32,052:chatbotapi:110 has confidence = 0.99908507
+2022-10-17 08:12:32,053:chatbotapi:110
+2022-10-17 08:12:32,056:chatbotapi:Solution fetched
+2022-10-17 08:12:58,084:chatbotapi:Received whatsapp-image data
+2022-10-17 08:12:58,084:chatbotapi:Whatsapp-Image section
+2022-10-17 08:13:00,115:chatbotapi:1 has confidence = 0.99984324
+2022-10-17 08:13:00,116:chatbotapi:1
+2022-10-17 08:13:00,119:chatbotapi:Solution fetched
+2022-10-17 08:23:38,473:chatbotapi:Custom app text message received
+2022-10-17 08:23:39,401:chatbotapi:1 has confidence = 0.99984324
+2022-10-17 08:23:39,402:chatbotapi:1
+2022-10-17 08:23:39,406:chatbotapi:Solution fetched
+2022-10-17 08:23:59,133:chatbotapi:Custom app text message received
+2022-10-17 08:23:59,197:chatbotapi:110 has confidence = 0.99908507
+2022-10-17 08:23:59,198:chatbotapi:110
+2022-10-17 08:23:59,201:chatbotapi:Solution fetched
+2022-10-17 08:25:30,670:chatbotapi:Custom app text message received
+2022-10-17 08:25:31,604:chatbotapi:1 has confidence = 0.99984324
+2022-10-17 08:25:31,605:chatbotapi:1
+2022-10-17 08:25:31,609:chatbotapi:Solution fetched
+2022-10-17 08:27:24,561:chatbotapi:Received whatsapp-JSON data
+2022-10-17 08:27:24,622:chatbotapi:110 has confidence = 0.99908507
+2022-10-17 08:27:24,623:chatbotapi:110
+2022-10-17 08:27:24,627:chatbotapi:Solution fetched
+2022-10-17 08:27:38,598:chatbotapi:Received whatsapp-JSON data
+2022-10-17 08:27:38,661:chatbotapi:1 has confidence = 0.99984324
+2022-10-17 08:27:38,662:chatbotapi:1
+2022-10-17 08:27:38,665:chatbotapi:Solution fetched
+2022-10-17 08:39:23,476:chatbotapi:Custom app text message received
+2022-10-17 08:39:24,422:chatbotapi:116 has confidence = 0.8851909
+2022-10-17 08:39:24,423:chatbotapi:116
+2022-10-17 08:39:24,427:chatbotapi:Solution fetched
+2022-10-17 08:39:43,878:chatbotapi:Custom app text message received
+2022-10-17 08:39:43,940:chatbotapi:115 has confidence = 0.8894422
+2022-10-17 08:39:43,941:chatbotapi:115
+2022-10-17 08:39:43,945:chatbotapi:Solution fetched
+2022-10-17 08:46:32,965:chatbotapi:Custom app text message received
+2022-10-17 08:46:33,919:chatbotapi:116 has confidence = 0.8851909
+2022-10-17 08:46:33,920:chatbotapi:116
+2022-10-17 08:46:33,924:chatbotapi:Solution fetched
+2022-10-17 08:47:15,831:chatbotapi:Custom app text message received
+2022-10-17 08:47:15,894:chatbotapi:116 has confidence = 0.8851909
+2022-10-17 08:47:15,895:chatbotapi:116
+2022-10-17 08:47:15,898:chatbotapi:Solution fetched
+2022-10-17 08:47:17,375:chatbotapi:Custom app text message received
+2022-10-17 08:47:17,439:chatbotapi:116 has confidence = 0.8851909
+2022-10-17 08:47:17,440:chatbotapi:116
+2022-10-17 08:47:17,444:chatbotapi:Solution fetched
+2022-10-17 08:47:26,132:chatbotapi:Custom app text message received
+2022-10-17 08:47:26,195:chatbotapi:116 has confidence = 0.8851909
+2022-10-17 08:47:26,195:chatbotapi:116
+2022-10-17 08:47:26,199:chatbotapi:Solution fetched
+2022-10-17 08:47:35,508:chatbotapi:Custom app text message received
+2022-10-17 08:47:35,571:chatbotapi:116 has confidence = 0.8851909
+2022-10-17 08:47:35,572:chatbotapi:116
+2022-10-17 08:47:35,576:chatbotapi:Solution fetched
+2022-10-17 08:47:36,558:chatbotapi:Custom app text message received
+2022-10-17 08:47:36,621:chatbotapi:116 has confidence = 0.8851909
+2022-10-17 08:47:36,621:chatbotapi:116
+2022-10-17 08:47:36,625:chatbotapi:Solution fetched
+2022-10-17 08:47:37,541:chatbotapi:Custom app text message received
+2022-10-17 08:47:37,606:chatbotapi:116 has confidence = 0.8851909
+2022-10-17 08:47:37,607:chatbotapi:116
+2022-10-17 08:47:37,611:chatbotapi:Solution fetched
+2022-10-17 08:49:46,195:chatbotapi:Custom app text message received
+2022-10-17 08:49:47,125:chatbotapi:116 has confidence = 0.8851909
+2022-10-17 08:49:47,126:chatbotapi:116
+2022-10-17 08:49:47,130:chatbotapi:Solution fetched
+2022-10-17 08:49:54,175:chatbotapi:Custom app text message received
+2022-10-17 08:49:54,240:chatbotapi:116 has confidence = 0.8851909
+2022-10-17 08:49:54,241:chatbotapi:116
+2022-10-17 08:49:54,244:chatbotapi:Solution fetched
+2022-10-17 08:50:27,141:chatbotapi:Custom app text message received
+2022-10-17 08:50:28,094:chatbotapi:110 has confidence = 0.99908507
+2022-10-17 08:50:28,100:chatbotapi:110
+2022-10-17 08:50:28,104:chatbotapi:Solution fetched
+2022-10-17 08:50:31,898:chatbotapi:Custom app text message received
+2022-10-17 08:50:31,965:chatbotapi:110 has confidence = 0.99908507
+2022-10-17 08:50:31,967:chatbotapi:110
+2022-10-17 08:50:31,971:chatbotapi:Solution fetched
+2022-10-17 08:50:40,067:chatbotapi:Custom app text message received
+2022-10-17 08:50:40,135:chatbotapi:116 has confidence = 0.8851909
+2022-10-17 08:50:40,136:chatbotapi:116
+2022-10-17 08:50:40,140:chatbotapi:Solution fetched
+2022-10-17 08:51:39,733:chatbotapi:Custom app text message received
+2022-10-17 08:51:40,673:chatbotapi:116 has confidence = 0.8851909
+2022-10-17 08:51:40,678:chatbotapi:116
+2022-10-17 08:51:40,682:chatbotapi:Solution fetched
+2022-10-17 08:52:14,908:chatbotapi:Custom app text message received
+2022-10-17 08:52:14,974:chatbotapi:116 has confidence = 0.8851909
+2022-10-17 08:52:14,975:chatbotapi:116
+2022-10-17 08:52:14,979:chatbotapi:Solution fetched
+2022-10-17 08:53:15,556:chatbotapi:Custom app text message received
+2022-10-17 08:53:16,499:chatbotapi:116 has confidence = 0.8851909
+2022-10-17 08:53:16,501:chatbotapi:116
+2022-10-17 08:53:16,505:chatbotapi:Solution fetched
+2022-10-17 08:54:06,269:chatbotapi:Custom app text message received
+2022-10-17 08:54:07,242:chatbotapi:116 has confidence = 0.8851909
+2022-10-17 08:54:07,244:chatbotapi:116
+2022-10-17 08:54:07,248:chatbotapi:Solution fetched
+2022-10-17 08:57:27,674:chatbotapi:Custom app text message received
+2022-10-17 08:57:28,599:chatbotapi:116 has confidence = 0.8851909
+2022-10-17 08:57:28,600:chatbotapi:116
+2022-10-17 08:57:28,604:chatbotapi:Solution fetched
+2022-10-17 08:57:57,137:chatbotapi:Received whatsapp-image data
+2022-10-17 08:57:57,137:chatbotapi:Whatsapp-Image section
+2022-10-17 08:57:59,047:chatbotapi:1 has confidence = 0.99984324
+2022-10-17 08:57:59,048:chatbotapi:1
+2022-10-17 08:57:59,052:chatbotapi:Solution fetched
+2022-10-17 08:58:08,180:chatbotapi:Received whatsapp-JSON data
+2022-10-17 08:58:08,242:chatbotapi:116 has confidence = 0.8851909
+2022-10-17 08:58:08,243:chatbotapi:116
+2022-10-17 08:58:08,247:chatbotapi:Solution fetched
+2022-10-17 08:58:14,537:chatbotapi:Received whatsapp-JSON data
+2022-10-17 08:58:14,602:chatbotapi:115 has confidence = 0.8894422
+2022-10-17 08:58:14,603:chatbotapi:115
+2022-10-17 08:58:14,606:chatbotapi:Solution fetched
+2022-10-18 05:25:19,462:chatbotapi:Custom app text message received
+2022-10-18 05:25:20,557:chatbotapi:110 has confidence = 0.99908507
+2022-10-18 05:25:20,558:chatbotapi:110
+2022-10-18 05:25:20,564:chatbotapi:Solution fetched
+2022-10-18 05:25:24,581:chatbotapi:Custom app text message received
+2022-10-18 05:25:24,657:chatbotapi:1 has confidence = 1.0
+2022-10-18 05:25:24,658:chatbotapi:1
+2022-10-18 05:25:24,663:chatbotapi:Solution fetched
+2022-10-18 05:25:32,984:chatbotapi:Custom app text message received
+2022-10-18 05:25:33,062:chatbotapi:116 has confidence = 0.8851909
+2022-10-18 05:25:33,063:chatbotapi:116
+2022-10-18 05:25:33,068:chatbotapi:Solution fetched
+2022-10-18 05:42:18,284:chatbotapi:Custom app text message received
+2022-10-18 05:42:19,462:chatbotapi:109 has confidence = 0.9981692
+2022-10-18 05:42:19,463:chatbotapi:109
+2022-10-18 05:42:19,468:chatbotapi:Solution fetched
+2022-10-18 05:42:31,289:chatbotapi:Custom app text message received
+2022-10-18 05:42:31,374:chatbotapi:1 has confidence = 0.99984324
+2022-10-18 05:42:31,375:chatbotapi:1
+2022-10-18 05:42:31,380:chatbotapi:Solution fetched
+2022-10-18 05:42:38,299:chatbotapi:Custom app text message received
+2022-10-18 05:42:38,384:chatbotapi:116 has confidence = 0.8851909
+2022-10-18 05:42:38,385:chatbotapi:116
+2022-10-18 05:42:38,390:chatbotapi:Solution fetched
+2022-10-18 05:43:35,572:chatbotapi:Custom app text message received
+2022-10-18 05:43:35,654:chatbotapi:2 has confidence = 0.99999976
+2022-10-18 05:43:35,655:chatbotapi:2
+2022-10-18 05:43:35,659:chatbotapi:Solution fetched
+2022-10-18 05:43:52,653:chatbotapi:Custom app text message received
+2022-10-18 05:43:52,734:chatbotapi:116 has confidence = 0.8851909
+2022-10-18 05:43:52,735:chatbotapi:116
+2022-10-18 05:43:52,739:chatbotapi:Solution fetched
+2022-10-18 05:44:00,675:chatbotapi:Custom app text message received
+2022-10-18 05:44:00,757:chatbotapi:4 has confidence = 0.99995005
+2022-10-18 05:44:00,759:chatbotapi:4
+2022-10-18 05:44:00,764:chatbotapi:Solution fetched
+2022-10-18 05:44:10,174:chatbotapi:Custom app text message received
+2022-10-18 05:44:10,268:chatbotapi:115 has confidence = 0.8894422
+2022-10-18 05:44:10,269:chatbotapi:115
+2022-10-18 05:44:10,274:chatbotapi:Solution fetched
+2022-10-18 05:44:28,210:chatbotapi:Custom app text message received
+2022-10-18 05:44:28,294:chatbotapi:5 has confidence = 1.0
+2022-10-18 05:44:28,295:chatbotapi:5
+2022-10-18 05:44:28,300:chatbotapi:Solution fetched
+2022-10-18 05:44:40,490:chatbotapi:Custom app text message received
+2022-10-18 05:44:40,576:chatbotapi:115 has confidence = 0.8894422
+2022-10-18 05:44:40,577:chatbotapi:115
+2022-10-18 05:44:40,582:chatbotapi:Solution fetched
+2022-10-18 05:44:56,855:chatbotapi:Custom app text message received
+2022-10-18 05:44:56,930:chatbotapi:80 has confidence = 0.99963725
+2022-10-18 05:44:56,931:chatbotapi:80
+2022-10-18 05:44:56,936:chatbotapi:Solution fetched
+2022-10-18 05:45:05,782:chatbotapi:Custom app text message received
+2022-10-18 05:45:05,871:chatbotapi:116 has confidence = 0.8851909
+2022-10-18 05:45:05,872:chatbotapi:116
+2022-10-18 05:45:05,878:chatbotapi:Solution fetched
+2022-10-18 05:45:22,548:chatbotapi:Custom app text message received
+2022-10-18 05:45:22,653:chatbotapi:88 has confidence = 0.9999294
+2022-10-18 05:45:22,654:chatbotapi:88
+2022-10-18 05:45:22,660:chatbotapi:Solution fetched
+2022-10-18 05:45:31,536:chatbotapi:Custom app text message received
+2022-10-18 05:45:31,620:chatbotapi:116 has confidence = 0.8851909
+2022-10-18 05:45:31,621:chatbotapi:116
+2022-10-18 05:45:31,626:chatbotapi:Solution fetched
+2022-10-18 05:47:56,603:chatbotapi:Custom app text message received
+2022-10-18 05:47:56,689:chatbotapi:109 has confidence = 0.9981692
+2022-10-18 05:47:56,690:chatbotapi:109
+2022-10-18 05:47:56,694:chatbotapi:Solution fetched
+2022-10-18 05:48:08,321:chatbotapi:Custom app text message received
+2022-10-18 05:48:08,405:chatbotapi:88 has confidence = 0.9999294
+2022-10-18 05:48:08,406:chatbotapi:88
+2022-10-18 05:48:08,411:chatbotapi:Solution fetched
+2022-10-18 05:48:18,738:chatbotapi:Custom app text message received
+2022-10-18 05:48:18,823:chatbotapi:116 has confidence = 0.8851909
+2022-10-18 05:48:18,824:chatbotapi:116
+2022-10-18 05:48:18,829:chatbotapi:Solution fetched
+2022-10-18 05:48:31,931:chatbotapi:Custom app text message received
+2022-10-18 05:48:32,016:chatbotapi:83 has confidence = 0.9998971
+2022-10-18 05:48:32,017:chatbotapi:83
+2022-10-18 05:48:32,021:chatbotapi:Solution fetched
+2022-10-18 05:48:41,466:chatbotapi:Custom app text message received
+2022-10-18 05:48:41,550:chatbotapi:116 has confidence = 0.8851909
+2022-10-18 05:48:41,550:chatbotapi:116
+2022-10-18 05:48:41,555:chatbotapi:Solution fetched
+2022-10-18 05:48:57,174:chatbotapi:Custom app text message received
+2022-10-18 05:48:57,258:chatbotapi:80 has confidence = 0.99963725
+2022-10-18 05:48:57,259:chatbotapi:80
+2022-10-18 05:48:57,264:chatbotapi:Solution fetched
+2022-10-18 05:49:05,774:chatbotapi:Custom app text message received
+2022-10-18 05:49:05,865:chatbotapi:115 has confidence = 0.8894422
+2022-10-18 05:49:05,866:chatbotapi:115
+2022-10-18 05:49:05,872:chatbotapi:Solution fetched
+2022-10-18 05:49:23,922:chatbotapi:Custom app text message received
+2022-10-18 05:49:24,011:chatbotapi:25 has confidence = 0.99995196
+2022-10-18 05:49:24,012:chatbotapi:25
+2022-10-18 05:49:24,017:chatbotapi:Solution fetched
+2022-10-18 05:49:37,101:chatbotapi:Custom app text message received
+2022-10-18 05:49:37,181:chatbotapi:115 has confidence = 0.8894422
+2022-10-18 05:49:37,182:chatbotapi:115
+2022-10-18 05:49:37,187:chatbotapi:Solution fetched
+2022-10-18 05:54:25,082:chatbotapi:Custom app text message received
+2022-10-18 05:54:25,163:chatbotapi:110 has confidence = 0.99908507
+2022-10-18 05:54:25,164:chatbotapi:110
+2022-10-18 05:54:25,169:chatbotapi:Solution fetched
+2022-10-18 05:54:32,755:chatbotapi:Custom app text message received
+2022-10-18 05:54:32,837:chatbotapi:25 has confidence = 0.99995196
+2022-10-18 05:54:32,838:chatbotapi:25
+2022-10-18 05:54:32,843:chatbotapi:Solution fetched
+2022-10-18 05:54:47,749:chatbotapi:Custom app text message received
+2022-10-18 05:54:47,830:chatbotapi:116 has confidence = 0.8851909
+2022-10-18 05:54:47,831:chatbotapi:116
+2022-10-18 05:54:47,836:chatbotapi:Solution fetched
+2022-10-18 05:54:54,915:chatbotapi:Custom app text message received
+2022-10-18 05:54:54,997:chatbotapi:95 has confidence = 0.99996936
+2022-10-18 05:54:54,998:chatbotapi:95
+2022-10-18 05:54:55,002:chatbotapi:Solution fetched
+2022-10-18 05:55:12,069:chatbotapi:Custom app text message received
+2022-10-18 05:55:12,169:chatbotapi:116 has confidence = 0.8851909
+2022-10-18 05:55:12,170:chatbotapi:116
+2022-10-18 05:55:12,176:chatbotapi:Solution fetched
+2022-10-18 05:55:24,345:chatbotapi:Custom app text message received
+2022-10-18 05:55:24,436:chatbotapi:23 has confidence = 0.9999616
+2022-10-18 05:55:24,439:chatbotapi:23
+2022-10-18 05:55:24,440:chatbotapi:Solution fetched
+2022-10-18 05:55:35,042:chatbotapi:Custom app text message received
+2022-10-18 05:55:35,129:chatbotapi:115 has confidence = 0.8894422
+2022-10-18 05:55:35,130:chatbotapi:115
+2022-10-18 05:55:35,134:chatbotapi:Solution fetched
+2022-10-18 05:55:50,016:chatbotapi:Custom app text message received
+2022-10-18 05:55:50,110:chatbotapi:26 has confidence = 0.9998698
+2022-10-18 05:55:50,111:chatbotapi:26
+2022-10-18 05:55:50,116:chatbotapi:Solution fetched
+2022-10-18 05:56:01,404:chatbotapi:Custom app text message received
+2022-10-18 05:56:01,486:chatbotapi:115 has confidence = 0.8894422
+2022-10-18 05:56:01,487:chatbotapi:115
+2022-10-18 05:56:01,492:chatbotapi:Solution fetched
+2022-10-18 05:56:30,399:chatbotapi:Custom app text message received
+2022-10-18 05:56:30,483:chatbotapi:30 has confidence = 0.9999927
+2022-10-18 05:56:30,484:chatbotapi:30
+2022-10-18 05:56:30,488:chatbotapi:Solution fetched
+2022-10-18 05:56:53,212:chatbotapi:Custom app text message received
+2022-10-18 05:56:53,301:chatbotapi:32 has confidence = 0.99988186
+2022-10-18 05:56:53,302:chatbotapi:32
+2022-10-18 05:56:53,307:chatbotapi:Solution fetched
+2022-10-18 05:57:00,452:chatbotapi:Custom app text message received
+2022-10-18 05:57:00,534:chatbotapi:116 has confidence = 0.8851909
+2022-10-18 05:57:00,535:chatbotapi:116
+2022-10-18 05:57:00,539:chatbotapi:Solution fetched
+2022-10-18 05:59:20,609:chatbotapi:Custom app text message received
+2022-10-18 05:59:20,684:chatbotapi:109 has confidence = 0.9981692
+2022-10-18 05:59:20,685:chatbotapi:109
+2022-10-18 05:59:20,690:chatbotapi:Solution fetched
+2022-10-18 05:59:27,627:chatbotapi:Custom app text message received
+2022-10-18 05:59:27,706:chatbotapi:32 has confidence = 0.99988186
+2022-10-18 05:59:27,707:chatbotapi:32
+2022-10-18 05:59:27,712:chatbotapi:Solution fetched
+2022-10-18 05:59:35,991:chatbotapi:Custom app text message received
+2022-10-18 05:59:36,076:chatbotapi:116 has confidence = 0.8851909
+2022-10-18 05:59:36,077:chatbotapi:116
+2022-10-18 05:59:36,082:chatbotapi:Solution fetched
+2022-10-18 05:59:49,135:chatbotapi:Custom app text message received
+2022-10-18 05:59:49,222:chatbotapi:91 has confidence = 0.9999627
+2022-10-18 05:59:49,223:chatbotapi:91
+2022-10-18 05:59:49,227:chatbotapi:Solution fetched
+2022-10-18 05:59:59,541:chatbotapi:Custom app text message received
+2022-10-18 05:59:59,627:chatbotapi:115 has confidence = 0.8894422
+2022-10-18 05:59:59,628:chatbotapi:115
+2022-10-18 05:59:59,633:chatbotapi:Solution fetched
+2022-10-18 06:00:16,373:chatbotapi:Custom app text message received
+2022-10-18 06:00:16,472:chatbotapi:2 has confidence = 1.0
+2022-10-18 06:00:16,475:chatbotapi:2
+2022-10-18 06:00:16,480:chatbotapi:Solution fetched
+2022-10-18 06:00:30,074:chatbotapi:Custom app text message received
+2022-10-18 06:00:30,159:chatbotapi:116 has confidence = 0.8851909
+2022-10-18 06:00:30,160:chatbotapi:116
+2022-10-18 06:00:30,165:chatbotapi:Solution fetched
+2022-10-18 06:00:45,654:chatbotapi:Custom app text message received
+2022-10-18 06:00:45,738:chatbotapi:1 has confidence = 0.99984324
+2022-10-18 06:00:45,739:chatbotapi:1
+2022-10-18 06:00:45,744:chatbotapi:Solution fetched
+2022-10-18 06:00:56,290:chatbotapi:Custom app text message received
+2022-10-18 06:00:56,374:chatbotapi:116 has confidence = 0.8851909
+2022-10-18 06:00:56,374:chatbotapi:116
+2022-10-18 06:00:56,379:chatbotapi:Solution fetched
+2022-10-18 06:10:20,828:chatbotapi:Received whatsapp-JSON data
+2022-10-18 06:10:21,915:chatbotapi:110 has confidence = 0.99908507
+2022-10-18 06:10:21,916:chatbotapi:110
+2022-10-18 06:10:21,921:chatbotapi:Solution fetched
+2022-10-18 06:10:46,381:chatbotapi:Received whatsapp-JSON data
+2022-10-18 06:10:46,455:chatbotapi:2 has confidence = 1.0
+2022-10-18 06:10:46,456:chatbotapi:2
+2022-10-18 06:10:46,460:chatbotapi:Solution fetched
+2022-10-18 06:11:01,013:chatbotapi:Received whatsapp-JSON data
+2022-10-18 06:11:01,086:chatbotapi:116 has confidence = 0.8851909
+2022-10-18 06:11:01,087:chatbotapi:116
+2022-10-18 06:11:01,091:chatbotapi:Solution fetched
+2022-10-18 06:11:14,531:chatbotapi:Received whatsapp-JSON data
+2022-10-18 06:11:14,605:chatbotapi:1 has confidence = 0.99984324
+2022-10-18 06:11:14,606:chatbotapi:1
+2022-10-18 06:11:14,610:chatbotapi:Solution fetched
+2022-10-18 06:11:33,968:chatbotapi:Received whatsapp-JSON data
+2022-10-18 06:11:34,039:chatbotapi:115 has confidence = 0.8894422
+2022-10-18 06:11:34,040:chatbotapi:115
+2022-10-18 06:11:34,045:chatbotapi:Solution fetched
+2022-10-18 06:12:07,049:chatbotapi:Received whatsapp-image data
+2022-10-18 06:12:07,049:chatbotapi:Whatsapp-Image section
+2022-10-18 06:12:09,039:chatbotapi:12 has confidence = 0.9999895
+2022-10-18 06:12:09,040:chatbotapi:12
+2022-10-18 06:12:09,045:chatbotapi:Solution fetched
+2022-10-18 06:12:34,571:chatbotapi:Received whatsapp-image data
+2022-10-18 06:12:34,572:chatbotapi:Whatsapp-Image section
+2022-10-18 06:12:36,482:chatbotapi:1 has confidence = 0.99984324
+2022-10-18 06:12:36,483:chatbotapi:1
+2022-10-18 06:12:36,487:chatbotapi:Solution fetched
+2022-10-18 06:12:49,123:chatbotapi:Received whatsapp-JSON data
+2022-10-18 06:12:49,195:chatbotapi:116 has confidence = 0.8851909
+2022-10-18 06:12:49,196:chatbotapi:116
+2022-10-18 06:12:49,200:chatbotapi:Solution fetched
+2022-10-18 06:13:12,577:chatbotapi:Received whatsapp-image data
+2022-10-18 06:13:12,577:chatbotapi:Whatsapp-Image section
+2022-10-18 06:13:14,563:chatbotapi:2 has confidence = 0.99999976
+2022-10-18 06:13:14,564:chatbotapi:2
+2022-10-18 06:13:14,568:chatbotapi:Solution fetched
+2022-10-18 06:13:24,151:chatbotapi:Received whatsapp-JSON data
+2022-10-18 06:13:24,223:chatbotapi:116 has confidence = 0.8851909
+2022-10-18 06:13:24,224:chatbotapi:116
+2022-10-18 06:13:24,229:chatbotapi:Solution fetched
+2022-10-18 08:59:10,267:chatbotapi:Custom app text message received
+2022-10-18 08:59:11,340:chatbotapi:1 has confidence = 0.99984324
+2022-10-18 08:59:11,341:chatbotapi:1
+2022-10-18 08:59:11,346:chatbotapi:Solution fetched
+2022-10-18 08:59:18,620:chatbotapi:Custom app text message received
+2022-10-18 08:59:19,649:chatbotapi:116 has confidence = 0.7921512
+2022-10-18 08:59:19,650:chatbotapi:116
+2022-10-18 08:59:19,655:chatbotapi:Solution fetched
+2022-10-18 08:59:32,914:chatbotapi:Custom app text message received
+2022-10-18 08:59:32,986:chatbotapi:1 has confidence = 0.99984324
+2022-10-18 08:59:32,987:chatbotapi:1
+2022-10-18 08:59:32,991:chatbotapi:Solution fetched
+2022-11-08 08:19:05,128:chatbotapi:Received whatsapp-JSON data
+2022-11-08 08:19:06,527:chatbotapi:110 has confidence = 0.99908507
+2022-11-08 08:19:06,528:chatbotapi:110
+2022-11-08 08:19:06,539:chatbotapi:Solution fetched
+2022-11-08 08:22:19,929:chatbotapi:Received whatsapp-JSON data
+2022-11-08 08:22:20,005:chatbotapi:1 has confidence = 0.99984324
+2022-11-08 08:22:20,006:chatbotapi:1
+2022-11-08 08:22:20,010:chatbotapi:Solution fetched
+2022-11-08 08:26:07,048:chatbotapi:Received whatsapp-JSON data
+2022-11-08 08:26:07,116:chatbotapi:110 has confidence = 0.99908507
+2022-11-08 08:26:07,117:chatbotapi:110
+2022-11-08 08:26:07,121:chatbotapi:Solution fetched
+2022-11-08 08:26:22,017:chatbotapi:Received whatsapp-JSON data
+2022-11-08 08:26:22,089:chatbotapi:110 has confidence = 0.99908507
+2022-11-08 08:26:22,090:chatbotapi:110
+2022-11-08 08:26:22,094:chatbotapi:Solution fetched
+2022-11-08 08:26:28,578:chatbotapi:Received whatsapp-JSON data
+2022-11-08 08:26:28,647:chatbotapi:109 has confidence = 0.9981692
+2022-11-08 08:26:28,648:chatbotapi:109
+2022-11-08 08:26:28,652:chatbotapi:Solution fetched

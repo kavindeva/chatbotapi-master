@@ -1,0 +1,750 @@
+2022-03-16 06:50:05.996402: wfastcgi.py 3.0.0 started
+2022-03-16 06:50:05.996402: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-16 06:50:05.996402: wfastcgi.py 3.0.0 started
+2022-03-16 06:50:06.012026: wfastcgi.py 3.0.0 started
+2022-03-16 06:50:06.012026: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-16 06:50:06.012026: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-16 06:50:06.012026: wfastcgi.py 3.0.0 initializing
+2022-03-16 06:50:06.012026: wfastcgi.py 3.0.0 initializing
+2022-03-16 06:50:06.012026: wfastcgi.py 3.0.0 initializing
+2022-03-16 06:50:06.012026: wfastcgi.py 3.0.0 started
+2022-03-16 06:50:06.027654: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-16 06:50:06.027654: wfastcgi.py 3.0.0 initializing
+2022-03-16 06:50:06.043279: wfastcgi.py 3.0.0 started
+2022-03-16 06:50:06.043279: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-16 06:50:06.043279: wfastcgi.py 3.0.0 initializing
+2022-03-16 06:50:06.183905: wfastcgi.py 3.0.0 started
+2022-03-16 06:50:06.183905: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-16 06:50:06.183905: wfastcgi.py 3.0.0 initializing
+2022-03-16 06:50:14.923459: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-03-16 06:50:14.923459: wfastcgi.py 3.0.0 initialized
+2022-03-16 06:50:15.485959: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-03-16 06:50:15.485959: wfastcgi.py 3.0.0 initialized
+2022-03-16 06:50:16.126578: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-03-16 06:50:16.126578: wfastcgi.py 3.0.0 initialized
+2022-03-16 06:50:16.548477: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-03-16 06:50:16.564076: wfastcgi.py 3.0.0 initialized
+2022-03-16 06:50:16.579703: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-03-16 06:50:16.579703: wfastcgi.py 3.0.0 initialized
+2022-03-16 06:50:16.751598: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-03-16 06:50:16.751598: wfastcgi.py 3.0.0 initialized
+2022-03-16 07:04:27.585134: wfastcgi.py 3.0.0 started
+2022-03-16 07:04:27.585134: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-16 07:04:27.585134: wfastcgi.py 3.0.0 started
+2022-03-16 07:04:27.585134: wfastcgi.py 3.0.0 started
+2022-03-16 07:04:27.585134: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-16 07:04:27.585134: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-16 07:04:27.616384: wfastcgi.py 3.0.0 started
+2022-03-16 07:04:27.616384: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-16 07:04:27.647633: wfastcgi.py 3.0.0 started
+2022-03-16 07:04:27.647633: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-16 07:04:27.647633: wfastcgi.py 3.0.0 started
+2022-03-16 07:04:27.647633: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-16 07:04:27.663264: wfastcgi.py 3.0.0 initializing
+2022-03-16 07:04:27.678884: wfastcgi.py 3.0.0 initializing
+2022-03-16 07:04:27.678884: wfastcgi.py 3.0.0 initializing
+2022-03-16 07:04:27.678884: wfastcgi.py 3.0.0 initializing
+2022-03-16 07:04:27.694509: wfastcgi.py 3.0.0 initializing
+2022-03-16 07:04:27.741389: wfastcgi.py 3.0.0 initializing
+2022-03-16 07:04:37.085133: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-03-16 07:04:37.116382: wfastcgi.py 3.0.0 initialized
+2022-03-16 07:04:37.366382: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-03-16 07:04:37.382014: wfastcgi.py 3.0.0 initialized
+2022-03-16 07:04:37.444508: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-03-16 07:04:37.475772: wfastcgi.py 3.0.0 initialized
+2022-03-16 07:04:37.522638: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-03-16 07:04:37.538259: wfastcgi.py 3.0.0 initialized
+2022-03-16 07:04:38.132005: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-03-16 07:04:38.132005: wfastcgi.py 3.0.0 initialized
+2022-03-16 07:04:39.319511: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-03-16 07:04:39.350759: wfastcgi.py 3.0.0 initialized
+2022-03-16 07:23:21.869352: wfastcgi.py 3.0.0 started
+2022-03-16 07:23:21.869352: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-16 07:23:21.869352: wfastcgi.py 3.0.0 initializing
+2022-03-16 07:23:28.431832: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-03-16 07:23:28.431832: wfastcgi.py 3.0.0 initialized
+2022-03-16 07:23:29.384953: wfastcgi.py 3.0.0 started
+2022-03-16 07:23:29.384953: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-16 07:23:29.384953: wfastcgi.py 3.0.0 initializing
+2022-03-16 07:23:35.916226: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-03-16 07:23:35.916226: wfastcgi.py 3.0.0 initialized
+2022-03-16 07:40:07.337680: wfastcgi.py 3.0.0 started
+2022-03-16 07:40:07.337680: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-16 07:40:07.337680: wfastcgi.py 3.0.0 initializing
+2022-03-16 07:40:14.015075: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-03-16 07:40:14.015075: wfastcgi.py 3.0.0 initialized
+2022-03-16 13:12:48.783839: wfastcgi.py 3.0.0 started
+2022-03-16 13:12:48.783839: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-16 13:12:48.783839: wfastcgi.py 3.0.0 initializing
+2022-03-16 13:12:55.393194: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-03-16 13:12:55.393194: wfastcgi.py 3.0.0 initialized
+2022-03-16 13:16:00.401930: wfastcgi.py exiting because chatbotapi.py has changed, matching .*((\.py)|(\.config))$
+2022-03-16 13:16:00.401930: Running on_exit tasks
+2022-03-16 13:18:53.181827: wfastcgi.py 3.0.0 started
+2022-03-16 13:18:53.181827: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-16 13:18:53.181827: wfastcgi.py 3.0.0 initializing
+2022-03-16 13:18:59.728704: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-03-16 13:18:59.728704: wfastcgi.py 3.0.0 initialized
+2022-03-17 05:32:15.509219: wfastcgi.py 3.0.0 started
+2022-03-17 05:32:15.509219: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-17 05:32:15.509219: wfastcgi.py 3.0.0 initializing
+2022-03-17 05:32:25.399818: wfastcgi.py 3.0.0 started
+2022-03-17 05:32:25.399818: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-17 05:32:25.399818: wfastcgi.py 3.0.0 initializing
+2022-03-17 05:32:30.352937: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-03-17 05:32:30.352937: wfastcgi.py 3.0.0 initialized
+2022-03-17 05:32:31.868573: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-03-17 05:32:31.868573: wfastcgi.py 3.0.0 initialized
+2022-03-17 05:44:39.670924: wfastcgi.py 3.0.0 started
+2022-03-17 05:44:39.670924: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-17 05:44:39.670924: wfastcgi.py 3.0.0 initializing
+2022-03-17 05:44:46.280271: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-03-17 05:44:46.295896: wfastcgi.py 3.0.0 initialized
+2022-03-17 05:53:04.055499: wfastcgi.py exiting because chatbotapi.py has changed, matching .*((\.py)|(\.config))$
+2022-03-17 05:53:04.055499: Running on_exit tasks
+2022-03-17 07:50:49.450523: wfastcgi.py 3.0.0 started
+2022-03-17 07:50:49.450523: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-17 07:50:49.450523: wfastcgi.py 3.0.0 initializing
+2022-03-17 07:50:55.966149: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-03-17 07:50:55.966149: wfastcgi.py 3.0.0 initialized
+2022-03-17 15:10:14.996145: wfastcgi.py 3.0.0 started
+2022-03-17 15:10:14.996145: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-17 15:10:14.996145: wfastcgi.py 3.0.0 initializing
+2022-03-17 15:10:21.605517: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-03-17 15:10:21.605517: wfastcgi.py 3.0.0 initialized
+2022-03-18 08:27:11.373730: wfastcgi.py 3.0.0 started
+2022-03-18 08:27:11.373730: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-18 08:27:11.373730: wfastcgi.py 3.0.0 initializing
+2022-03-18 08:27:25.373745: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-03-18 08:27:25.373745: wfastcgi.py 3.0.0 initialized
+2022-03-18 08:46:38.955451: wfastcgi.py 3.0.0 started
+2022-03-18 08:46:38.955451: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-18 08:46:38.955451: wfastcgi.py 3.0.0 initializing
+2022-03-18 08:46:45.439817: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-03-18 08:46:45.439817: wfastcgi.py 3.0.0 initialized
+2022-03-19 16:36:49.882455: wfastcgi.py 3.0.0 started
+2022-03-19 16:36:49.882455: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-19 16:36:49.882455: wfastcgi.py 3.0.0 initializing
+2022-03-19 16:37:03.094781: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-03-19 16:37:03.094781: wfastcgi.py 3.0.0 initialized
+2022-03-20 08:00:21.717159: wfastcgi.py 3.0.0 started
+2022-03-20 08:00:21.717159: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-20 08:00:21.717159: wfastcgi.py 3.0.0 initializing
+2022-03-20 08:00:26.353717: wfastcgi.py 3.0.0 started
+2022-03-20 08:00:26.353717: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-20 08:00:26.353717: wfastcgi.py 3.0.0 initializing
+2022-03-20 08:00:35.476936: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-03-20 08:00:35.476936: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-03-20 08:00:35.476936: wfastcgi.py 3.0.0 initialized
+2022-03-20 08:00:35.476936: wfastcgi.py 3.0.0 initialized
+2022-03-21 15:16:56.096984: wfastcgi.py 3.0.0 started
+2022-03-21 15:16:56.097991: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-21 15:16:56.098990: wfastcgi.py 3.0.0 initializing
+2022-03-21 15:16:59.823388: wfastcgi.py 3.0.0 started
+2022-03-21 15:16:59.824324: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-21 15:16:59.825369: wfastcgi.py 3.0.0 initializing
+2022-03-21 15:17:03.234135: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-03-21 15:17:03.236130: wfastcgi.py 3.0.0 initialized
+2022-03-21 15:17:06.584710: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-03-21 15:17:06.585678: wfastcgi.py 3.0.0 initialized
+2022-04-12 06:13:14.273482: wfastcgi.py 3.0.0 started
+2022-04-12 06:13:14.273482: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-12 06:13:14.273482: wfastcgi.py 3.0.0 initializing
+2022-04-12 06:13:32.632885: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-04-12 06:13:32.632885: wfastcgi.py 3.0.0 initialized
+2022-04-12 06:30:46.576988: wfastcgi.py 3.0.0 started
+2022-04-12 06:30:46.576988: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-12 06:30:46.576988: wfastcgi.py 3.0.0 initializing
+2022-04-12 06:30:53.233239: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-04-12 06:30:53.233239: wfastcgi.py 3.0.0 initialized
+2022-04-12 06:51:58.611921: wfastcgi.py 3.0.0 started
+2022-04-12 06:51:58.611921: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-12 06:51:58.611921: wfastcgi.py 3.0.0 initializing
+2022-04-12 06:52:05.300594: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-04-12 06:52:05.300594: wfastcgi.py 3.0.0 initialized
+2022-04-18 05:23:10.770777: wfastcgi.py 3.0.0 started
+2022-04-18 05:23:10.770777: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-18 05:23:27.118074: wfastcgi.py 3.0.0 initializing
+2022-04-18 05:23:48.164948: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-04-18 05:23:48.164948: wfastcgi.py 3.0.0 initialized
+2022-04-18 12:55:08.924476: wfastcgi.py 3.0.0 started
+2022-04-18 12:55:08.924476: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-18 12:55:11.518221: wfastcgi.py 3.0.0 initializing
+2022-04-18 12:55:18.111978: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-04-18 12:55:18.111978: wfastcgi.py 3.0.0 initialized
+2022-04-19 03:39:17.455957: wfastcgi.py 3.0.0 started
+2022-04-19 03:39:17.455957: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-19 03:40:15.229580: wfastcgi.py 3.0.0 initializing
+2022-04-19 03:40:28.963954: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-04-19 03:40:28.963954: wfastcgi.py 3.0.0 initialized
+2022-04-19 03:42:54.434380: wfastcgi.py 3.0.0 started
+2022-04-19 03:42:54.434380: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-19 03:43:17.496879: wfastcgi.py 3.0.0 initializing
+2022-04-19 03:43:24.090632: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-04-19 03:43:24.090632: wfastcgi.py 3.0.0 initialized
+2022-04-19 04:06:19.975514: wfastcgi.py 3.0.0 started
+2022-04-19 04:06:19.975514: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-19 04:06:19.975514: wfastcgi.py 3.0.0 initializing
+2022-04-19 04:06:26.600508: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-04-19 04:06:26.600508: wfastcgi.py 3.0.0 initialized
+2022-04-19 04:32:40.188787: wfastcgi.py 3.0.0 started
+2022-04-19 04:32:40.188787: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-19 04:32:40.329396: wfastcgi.py 3.0.0 initializing
+2022-04-19 04:32:46.907492: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-04-19 04:32:46.923153: wfastcgi.py 3.0.0 initialized
+2022-04-19 04:45:57.366461: wfastcgi.py 3.0.0 started
+2022-04-19 04:45:57.366461: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-19 04:45:57.663356: wfastcgi.py 3.0.0 initializing
+2022-04-19 04:46:04.303969: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-04-19 04:46:04.303969: wfastcgi.py 3.0.0 initialized
+2022-04-19 04:52:08.056179: wfastcgi.py 3.0.0 started
+2022-04-19 04:52:08.056179: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-19 04:52:08.212429: wfastcgi.py 3.0.0 initializing
+2022-04-19 04:52:14.884302: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-04-19 04:52:14.884302: wfastcgi.py 3.0.0 initialized
+2022-04-19 05:31:35.823620: wfastcgi.py 3.0.0 started
+2022-04-19 05:31:35.823620: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-19 05:31:36.042353: wfastcgi.py 3.0.0 initializing
+2022-04-19 05:31:42.573605: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-04-19 05:31:42.573605: wfastcgi.py 3.0.0 initialized
+2022-04-19 05:37:54.863577: wfastcgi.py 3.0.0 started
+2022-04-19 05:37:54.863577: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-19 05:37:55.301070: wfastcgi.py 3.0.0 initializing
+2022-04-19 05:38:01.879200: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-04-19 05:38:01.879200: wfastcgi.py 3.0.0 initialized
+2022-04-19 05:45:41.724005: wfastcgi.py 3.0.0 started
+2022-04-19 05:45:41.724005: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-19 05:45:41.724005: wfastcgi.py 3.0.0 initializing
+2022-04-19 05:45:48.294499: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-04-19 05:45:48.294499: wfastcgi.py 3.0.0 initialized
+2022-04-19 06:04:59.477194: wfastcgi.py 3.0.0 started
+2022-04-19 06:04:59.477194: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-19 06:04:59.774099: wfastcgi.py 3.0.0 initializing
+2022-04-19 06:05:06.323536: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-04-19 06:05:06.323536: wfastcgi.py 3.0.0 initialized
+2022-04-19 06:31:35.725748: wfastcgi.py 3.0.0 started
+2022-04-19 06:31:35.725748: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-19 06:31:36.116378: wfastcgi.py 3.0.0 initializing
+2022-04-19 06:31:42.585123: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-04-19 06:31:42.585123: wfastcgi.py 3.0.0 initialized
+2022-04-19 07:03:11.260279: wfastcgi.py 3.0.0 started
+2022-04-19 07:03:11.260279: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-19 07:03:11.510282: wfastcgi.py 3.0.0 initializing
+2022-04-19 07:03:18.072787: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-04-19 07:03:18.072787: wfastcgi.py 3.0.0 initialized
+2022-04-19 07:34:41.060195: wfastcgi.py 3.0.0 started
+2022-04-19 07:34:41.060195: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-19 07:34:41.263345: wfastcgi.py 3.0.0 initializing
+2022-04-19 07:34:47.732067: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-04-19 07:34:47.732067: wfastcgi.py 3.0.0 initialized
+2022-04-19 07:51:51.598284: wfastcgi.py 3.0.0 started
+2022-04-19 07:51:51.598284: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-19 07:51:51.598284: wfastcgi.py 3.0.0 initializing
+2022-04-19 07:51:58.103640: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-04-19 07:51:58.103640: wfastcgi.py 3.0.0 initialized
+2022-04-19 09:00:53.458720: wfastcgi.py 3.0.0 started
+2022-04-19 09:00:53.458720: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-19 09:00:53.833723: wfastcgi.py 3.0.0 initializing
+2022-04-19 09:01:00.413132: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-04-19 09:01:00.413132: wfastcgi.py 3.0.0 initialized
+2022-04-19 09:09:47.136544: wfastcgi.py 3.0.0 started
+2022-04-19 09:09:47.136544: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-19 09:09:48.855303: wfastcgi.py 3.0.0 initializing
+2022-04-19 09:09:55.370915: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-04-19 09:09:55.370915: wfastcgi.py 3.0.0 initialized
+2022-04-19 11:58:33.001849: wfastcgi.py 3.0.0 started
+2022-04-19 11:58:33.001849: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-19 11:58:33.001849: wfastcgi.py 3.0.0 initializing
+2022-04-19 11:58:39.501861: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-04-19 11:58:39.501861: wfastcgi.py 3.0.0 initialized
+2022-04-19 12:06:45.418082: wfastcgi.py 3.0.0 started
+2022-04-19 12:06:45.418082: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-19 12:06:45.683700: wfastcgi.py 3.0.0 initializing
+2022-04-19 12:06:52.247505: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-04-19 12:06:52.247505: wfastcgi.py 3.0.0 initialized
+2022-04-19 12:15:50.068152: wfastcgi.py 3.0.0 started
+2022-04-19 12:15:50.068152: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-19 12:15:50.302527: wfastcgi.py 3.0.0 initializing
+2022-04-19 12:15:56.802546: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-04-19 12:15:56.802546: wfastcgi.py 3.0.0 initialized
+2022-04-19 17:04:51.181693: wfastcgi.py 3.0.0 started
+2022-04-19 17:04:51.181693: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-19 17:04:51.181693: wfastcgi.py 3.0.0 initializing
+2022-04-19 17:04:58.134858: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-04-19 17:04:58.134858: wfastcgi.py 3.0.0 initialized
+2022-04-21 07:25:32.961679: wfastcgi.py 3.0.0 started
+2022-04-21 07:25:32.961679: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 07:25:33.211675: wfastcgi.py 3.0.0 initializing
+2022-04-21 07:25:40.383528: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-04-21 07:25:40.383528: wfastcgi.py 3.0.0 initialized
+2022-04-22 08:59:38.306150: wfastcgi.py 3.0.0 started
+2022-04-22 08:59:38.306150: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-22 08:59:38.728021: wfastcgi.py 3.0.0 initializing
+2022-04-22 08:59:52.384265: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-04-22 08:59:52.399896: wfastcgi.py 3.0.0 initialized
+2022-05-05 08:07:35.428880: wfastcgi.py 3.0.0 started
+2022-05-05 08:07:35.431887: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-05 08:07:35.432882: wfastcgi.py 3.0.0 initializing
+2022-05-05 08:07:43.274900: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-05-05 08:07:43.275843: wfastcgi.py 3.0.0 initialized
+2022-05-05 08:36:25.079137: wfastcgi.py 3.0.0 started
+2022-05-05 08:36:25.079137: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-05 08:36:25.080135: wfastcgi.py 3.0.0 initializing
+2022-05-05 08:36:31.810135: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-05-05 08:36:31.811141: wfastcgi.py 3.0.0 initialized
+2022-05-05 09:15:12.908915: wfastcgi.py 3.0.0 started
+2022-05-05 09:15:12.909916: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-05 09:15:12.910919: wfastcgi.py 3.0.0 initializing
+2022-05-05 09:15:19.925601: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-05-05 09:15:19.926660: wfastcgi.py 3.0.0 initialized
+2022-05-06 05:06:43.867780: wfastcgi.py 3.0.0 started
+2022-05-06 05:06:43.867780: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-06 05:06:43.867780: wfastcgi.py 3.0.0 initializing
+2022-05-06 05:07:06.913807: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-05-06 05:07:06.913807: wfastcgi.py 3.0.0 initialized
+2022-05-06 10:40:49.300536: wfastcgi.py 3.0.0 started
+2022-05-06 10:40:49.301537: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-06 10:40:49.302538: wfastcgi.py 3.0.0 initializing
+2022-05-06 10:41:03.028350: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-05-06 10:41:03.028350: wfastcgi.py 3.0.0 initialized
+2022-05-06 11:49:46.139677: wfastcgi.py 3.0.0 started
+2022-05-06 11:49:46.141674: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-06 11:49:46.142675: wfastcgi.py 3.0.0 initializing
+2022-05-06 11:49:55.418677: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-05-06 11:49:55.419671: wfastcgi.py 3.0.0 initialized
+2022-05-06 11:58:56.615440: wfastcgi.py 3.0.0 started
+2022-05-06 11:58:56.615440: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-06 11:58:56.616442: wfastcgi.py 3.0.0 initializing
+2022-05-06 11:59:03.563053: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-05-06 11:59:03.563053: wfastcgi.py 3.0.0 initialized
+2022-05-07 11:34:35.671774: wfastcgi.py 3.0.0 started
+2022-05-07 11:34:35.673767: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-07 11:34:35.674730: wfastcgi.py 3.0.0 initializing
+2022-05-07 11:34:58.766514: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-05-07 11:34:58.767564: wfastcgi.py 3.0.0 initialized
+2022-05-07 11:44:03.548139: wfastcgi.py 3.0.0 started
+2022-05-07 11:44:03.550140: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-07 11:44:03.551151: wfastcgi.py 3.0.0 initializing
+2022-05-07 11:44:13.786105: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-05-07 11:44:13.787111: wfastcgi.py 3.0.0 initialized
+2022-05-09 05:08:35.517088: wfastcgi.py 3.0.0 started
+2022-05-09 05:08:35.518127: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-09 05:08:35.519131: wfastcgi.py 3.0.0 initializing
+2022-05-09 05:08:42.860131: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-05-09 05:08:42.862132: wfastcgi.py 3.0.0 initialized
+2022-05-09 05:26:43.697713: wfastcgi.py 3.0.0 started
+2022-05-09 05:26:43.698710: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-09 05:26:43.699716: wfastcgi.py 3.0.0 initializing
+2022-05-09 05:26:50.513716: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-05-09 05:26:50.514698: wfastcgi.py 3.0.0 initialized
+2022-05-11 06:54:10.800165: wfastcgi.py 3.0.0 started
+2022-05-11 06:54:10.800165: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-11 06:54:10.800165: wfastcgi.py 3.0.0 initializing
+2022-05-11 06:54:31.910300: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-05-11 06:54:31.910300: wfastcgi.py 3.0.0 initialized
+2022-05-11 06:55:12.064806: wfastcgi.py 3.0.0 started
+2022-05-11 06:55:12.064806: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-11 06:55:12.080425: wfastcgi.py 3.0.0 initializing
+2022-05-11 06:55:18.671938: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-05-11 06:55:18.671938: wfastcgi.py 3.0.0 initialized
+2022-05-11 08:32:00.158542: wfastcgi.py 3.0.0 started
+2022-05-11 08:32:00.158542: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-11 08:32:00.158542: wfastcgi.py 3.0.0 initializing
+2022-05-11 08:32:06.846044: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-05-11 08:32:06.846044: wfastcgi.py 3.0.0 initialized
+2022-05-11 11:11:26.963208: wfastcgi.py 3.0.0 started
+2022-05-11 11:11:26.963208: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-11 11:11:26.963208: wfastcgi.py 3.0.0 initializing
+2022-05-11 11:11:33.926149: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-05-11 11:11:33.926149: wfastcgi.py 3.0.0 initialized
+2022-05-11 11:28:59.392996: wfastcgi.py 3.0.0 started
+2022-05-11 11:28:59.392996: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-11 11:28:59.394001: wfastcgi.py 3.0.0 initializing
+2022-05-11 11:29:06.313160: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-05-11 11:29:06.314122: wfastcgi.py 3.0.0 initialized
+2022-05-12 03:32:29.878976: wfastcgi.py 3.0.0 started
+2022-05-12 03:32:29.878976: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-12 03:32:29.878976: wfastcgi.py 3.0.0 initializing
+2022-05-12 03:32:36.625173: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-05-12 03:32:36.625173: wfastcgi.py 3.0.0 initialized
+2022-05-12 03:39:29.804484: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\chatbotapi\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "C:\inetpub\wwwroot\chatbotapi\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2022-05-12 03:39:29.805487: Running on_exit tasks
+2022-05-12 03:39:29.805487: wfastcgi.py 3.0.0 closed
+2022-05-12 03:50:52.481875: wfastcgi.py 3.0.0 started
+2022-05-12 03:50:52.481875: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-12 03:50:52.481875: wfastcgi.py 3.0.0 initializing
+2022-05-12 03:50:59.029484: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-05-12 03:50:59.029484: wfastcgi.py 3.0.0 initialized
+2022-05-12 04:11:27.012643: wfastcgi.py 3.0.0 started
+2022-05-12 04:11:27.012643: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-12 04:11:27.013674: wfastcgi.py 3.0.0 initializing
+2022-05-12 04:11:33.725388: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-05-12 04:11:33.726395: wfastcgi.py 3.0.0 initialized
+2022-05-12 04:30:23.126522: wfastcgi.py 3.0.0 started
+2022-05-12 04:30:23.127525: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-12 04:30:23.128526: wfastcgi.py 3.0.0 initializing
+2022-05-12 04:30:29.992823: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-05-12 04:30:29.993820: wfastcgi.py 3.0.0 initialized
+2022-06-08 14:16:25.634915: wfastcgi.py 3.0.0 started
+2022-06-08 14:16:25.634915: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-06-08 14:16:25.634915: wfastcgi.py 3.0.0 initializing
+2022-06-08 14:16:33.009912: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-06-08 14:16:33.009912: wfastcgi.py 3.0.0 initialized
+2022-06-08 17:01:26.528620: wfastcgi.py 3.0.0 started
+2022-06-08 17:01:26.529624: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-06-08 17:01:26.530590: wfastcgi.py 3.0.0 initializing
+2022-06-08 17:01:33.778628: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-06-08 17:01:33.779624: wfastcgi.py 3.0.0 initialized
+2022-07-20 06:18:04.487555: wfastcgi.py 3.0.0 started
+2022-07-20 06:18:04.489545: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-07-20 06:18:04.490550: wfastcgi.py 3.0.0 initializing
+2022-07-20 06:18:04.933538: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-07-20 06:18:04.934543: wfastcgi.py 3.0.0 initialized
+2022-07-20 06:19:30.431003: wfastcgi.py exiting because chatbot-main.py has changed, matching .*((\.py)|(\.config))$
+2022-07-20 06:19:30.431003: Running on_exit tasks
+2022-07-20 06:19:46.774064: wfastcgi.py 3.0.0 started
+2022-07-20 06:19:46.775054: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-07-20 06:19:46.776046: wfastcgi.py 3.0.0 initializing
+2022-07-20 06:19:47.172053: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-07-20 06:19:47.173050: wfastcgi.py 3.0.0 initialized
+2022-07-20 06:21:19.287801: wfastcgi.py exiting because chatbot-main.py has changed, matching .*((\.py)|(\.config))$
+2022-07-20 06:21:19.287801: Running on_exit tasks
+2022-07-20 06:21:33.278797: wfastcgi.py 3.0.0 started
+2022-07-20 06:21:33.278797: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-07-20 06:21:33.279837: wfastcgi.py 3.0.0 initializing
+2022-07-20 06:21:33.684842: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-07-20 06:21:33.685845: wfastcgi.py 3.0.0 initialized
+2022-07-20 06:26:55.900128: wfastcgi.py 3.0.0 started
+2022-07-20 06:26:55.910276: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-07-20 06:26:55.910276: wfastcgi.py 3.0.0 initializing
+2022-07-20 06:26:56.294857: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-07-20 06:26:56.294857: wfastcgi.py 3.0.0 initialized
+2022-07-20 06:34:48.363416: wfastcgi.py 3.0.0 started
+2022-07-20 06:34:48.364417: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-07-20 06:34:48.365423: wfastcgi.py 3.0.0 initializing
+2022-07-20 06:35:10.252844: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-07-20 06:35:10.253845: wfastcgi.py 3.0.0 initialized
+2022-07-20 06:37:47.680731: wfastcgi.py exiting because chatbot-main.py has changed, matching .*((\.py)|(\.config))$
+2022-07-20 06:37:47.680731: Running on_exit tasks
+2022-07-24 03:34:45.758073: wfastcgi.py 3.0.0 started
+2022-07-24 03:34:45.759073: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-07-24 03:34:45.760075: wfastcgi.py 3.0.0 initializing
+2022-07-24 03:35:02.514090: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-07-24 03:35:02.515073: wfastcgi.py 3.0.0 initialized
+2022-07-24 03:40:06.858069: wfastcgi.py 3.0.0 started
+2022-07-24 03:40:06.858069: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-07-24 03:40:06.859073: wfastcgi.py 3.0.0 initializing
+2022-07-24 03:40:14.116071: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-07-24 03:40:14.117055: wfastcgi.py 3.0.0 initialized
+2022-07-24 03:45:36.356063: wfastcgi.py 3.0.0 started
+2022-07-24 03:45:36.357069: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-07-24 03:45:36.357069: wfastcgi.py 3.0.0 initializing
+2022-07-24 03:45:43.561070: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-07-24 03:45:43.562068: wfastcgi.py 3.0.0 initialized
+2022-07-24 03:52:36.368073: wfastcgi.py 3.0.0 started
+2022-07-24 03:52:36.369077: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-07-24 03:52:36.370075: wfastcgi.py 3.0.0 initializing
+2022-07-24 03:52:43.971076: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-07-24 03:52:43.972073: wfastcgi.py 3.0.0 initialized
+2022-07-24 04:04:18.916070: wfastcgi.py 3.0.0 started
+2022-07-24 04:04:18.917071: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-07-24 04:04:18.918077: wfastcgi.py 3.0.0 initializing
+2022-07-24 04:04:26.237070: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-07-24 04:04:26.238068: wfastcgi.py 3.0.0 initialized
+2022-10-03 08:10:10.119574: wfastcgi.py 3.0.0 started
+2022-10-03 08:10:10.120551: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-03 08:10:10.121552: wfastcgi.py 3.0.0 initializing
+2022-10-03 08:10:17.947546: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-03 08:10:17.948551: wfastcgi.py 3.0.0 initialized
+2022-10-03 11:01:50.783403: wfastcgi.py 3.0.0 started
+2022-10-03 11:01:50.784401: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-03 11:01:50.785399: wfastcgi.py 3.0.0 initializing
+2022-10-03 11:01:59.518400: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-03 11:01:59.519403: wfastcgi.py 3.0.0 initialized
+2022-10-03 12:22:30.109412: wfastcgi.py 3.0.0 started
+2022-10-03 12:22:30.110405: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-03 12:22:30.111408: wfastcgi.py 3.0.0 initializing
+2022-10-03 12:22:37.988410: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-03 12:22:37.989417: wfastcgi.py 3.0.0 initialized
+2022-10-03 12:36:01.791444: wfastcgi.py 3.0.0 started
+2022-10-03 12:36:01.792407: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-03 12:36:01.793424: wfastcgi.py 3.0.0 initializing
+2022-10-03 12:36:10.090406: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-03 12:36:10.091408: wfastcgi.py 3.0.0 initialized
+2022-10-04 06:39:32.791917: wfastcgi.py 3.0.0 started
+2022-10-04 06:39:32.791917: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-04 06:39:32.792919: wfastcgi.py 3.0.0 initializing
+2022-10-04 06:39:50.180916: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-04 06:39:50.181895: wfastcgi.py 3.0.0 initialized
+2022-10-04 07:00:20.768888: wfastcgi.py 3.0.0 started
+2022-10-04 07:00:20.768888: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-04 07:00:20.769889: wfastcgi.py 3.0.0 initializing
+2022-10-04 07:00:28.819914: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-04 07:00:28.820896: wfastcgi.py 3.0.0 initialized
+2022-10-04 07:37:45.207805: wfastcgi.py 3.0.0 started
+2022-10-04 07:37:45.208815: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-04 07:37:45.209786: wfastcgi.py 3.0.0 initializing
+2022-10-04 07:37:53.050811: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-04 07:37:53.051784: wfastcgi.py 3.0.0 initialized
+2022-10-04 08:49:20.582338: wfastcgi.py 3.0.0 started
+2022-10-04 08:49:20.582338: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-04 08:49:20.583376: wfastcgi.py 3.0.0 initializing
+2022-10-04 08:49:28.397350: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-04 08:49:28.398352: wfastcgi.py 3.0.0 initialized
+2022-10-04 08:58:00.602344: wfastcgi.py 3.0.0 started
+2022-10-04 08:58:00.603331: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-04 08:58:00.604339: wfastcgi.py 3.0.0 initializing
+2022-10-04 08:58:08.419364: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-04 08:58:08.420330: wfastcgi.py 3.0.0 initialized
+2022-10-10 12:19:48.242106: wfastcgi.py 3.0.0 started
+2022-10-10 12:19:48.243104: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-10 12:19:48.244103: wfastcgi.py 3.0.0 initializing
+2022-10-10 12:19:57.069106: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-10 12:19:57.070109: wfastcgi.py 3.0.0 initialized
+2022-10-10 12:28:33.096102: wfastcgi.py exiting because chatbotapi.py has changed, matching .*((\.py)|(\.config))$
+2022-10-10 12:28:33.097151: Running on_exit tasks
+2022-10-10 12:39:56.191106: wfastcgi.py 3.0.0 started
+2022-10-10 12:39:56.192118: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-10 12:39:56.193115: wfastcgi.py 3.0.0 initializing
+2022-10-10 12:40:04.475143: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-10 12:40:04.476122: wfastcgi.py 3.0.0 initialized
+2022-10-10 12:56:56.165112: wfastcgi.py exiting because chatbotapi.py has changed, matching .*((\.py)|(\.config))$
+2022-10-10 12:56:56.167136: Running on_exit tasks
+2022-10-10 13:04:40.621121: wfastcgi.py 3.0.0 started
+2022-10-10 13:04:40.622098: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-10 13:04:40.623125: wfastcgi.py 3.0.0 initializing
+2022-10-10 13:04:48.859125: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-10 13:04:48.860099: wfastcgi.py 3.0.0 initialized
+2022-10-10 13:05:53.626104: wfastcgi.py exiting because chatbotapi.py has changed, matching .*((\.py)|(\.config))$
+2022-10-10 13:05:53.628107: Running on_exit tasks
+2022-10-10 13:07:10.848134: wfastcgi.py 3.0.0 started
+2022-10-10 13:07:10.849106: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-10 13:07:10.850155: wfastcgi.py 3.0.0 initializing
+2022-10-10 13:07:19.001136: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-10 13:07:19.003107: wfastcgi.py 3.0.0 initialized
+2022-10-11 05:40:40.906733: wfastcgi.py 3.0.0 started
+2022-10-11 05:40:40.907691: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-11 05:40:40.908716: wfastcgi.py 3.0.0 initializing
+2022-10-11 05:40:52.689721: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-11 05:40:52.690739: wfastcgi.py 3.0.0 initialized
+2022-10-11 06:43:32.967727: wfastcgi.py 3.0.0 started
+2022-10-11 06:43:32.968687: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-11 06:43:32.969707: wfastcgi.py 3.0.0 initializing
+2022-10-11 06:43:42.111705: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-11 06:43:42.112725: wfastcgi.py 3.0.0 initialized
+2022-10-11 06:48:04.530996: wfastcgi.py exiting because chatbotapi.py has changed, matching .*((\.py)|(\.config))$
+2022-10-11 06:48:04.532008: Running on_exit tasks
+2022-10-11 06:52:30.618003: wfastcgi.py 3.0.0 started
+2022-10-11 06:52:30.619001: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-11 06:52:30.620015: wfastcgi.py 3.0.0 initializing
+2022-10-11 06:52:40.343998: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-11 06:52:40.344994: wfastcgi.py 3.0.0 initialized
+2022-10-12 08:08:48.246565: wfastcgi.py 3.0.0 started
+2022-10-12 08:08:48.248516: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-12 08:08:48.249520: wfastcgi.py 3.0.0 initializing
+2022-10-12 08:09:20.132528: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-12 08:09:20.133520: wfastcgi.py 3.0.0 initialized
+2022-10-13 05:54:27.340020: wfastcgi.py 3.0.0 started
+2022-10-13 05:54:27.341035: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-13 05:54:30.064060: wfastcgi.py 3.0.0 initializing
+2022-10-13 05:54:39.620071: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-13 05:54:39.621026: wfastcgi.py 3.0.0 initialized
+2022-10-13 06:09:33.263076: wfastcgi.py 3.0.0 started
+2022-10-13 06:09:33.263076: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-13 06:09:33.264156: wfastcgi.py 3.0.0 initializing
+2022-10-13 06:09:36.653041: wfastcgi.py 3.0.0 started
+2022-10-13 06:09:36.653041: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-13 06:09:36.654034: wfastcgi.py 3.0.0 initializing
+2022-10-13 06:09:42.416243: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-13 06:09:42.417244: wfastcgi.py 3.0.0 initialized
+2022-10-13 06:09:45.430011: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-13 06:09:45.430967: wfastcgi.py 3.0.0 initialized
+2022-10-13 06:25:19.346953: wfastcgi.py 3.0.0 started
+2022-10-13 06:25:19.348509: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-13 06:25:19.349063: wfastcgi.py 3.0.0 initializing
+2022-10-13 06:25:48.445202: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-13 06:25:48.446159: wfastcgi.py 3.0.0 initialized
+2022-10-13 06:47:42.043303: wfastcgi.py 3.0.0 started
+2022-10-13 06:47:42.043303: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-13 06:47:42.044305: wfastcgi.py 3.0.0 initializing
+2022-10-13 06:47:50.234303: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-13 06:47:50.235272: wfastcgi.py 3.0.0 initialized
+2022-10-13 06:47:50.371275: wfastcgi.py 3.0.0 started
+2022-10-13 06:47:50.371275: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-13 06:47:50.372276: wfastcgi.py 3.0.0 initializing
+2022-10-13 06:47:58.829303: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-13 06:47:58.830274: wfastcgi.py 3.0.0 initialized
+2022-10-13 09:16:39.187629: wfastcgi.py 3.0.0 started
+2022-10-13 09:16:39.188602: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-13 09:16:39.189631: wfastcgi.py 3.0.0 initializing
+2022-10-13 09:16:47.208613: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-13 09:16:47.209650: wfastcgi.py 3.0.0 initialized
+2022-10-13 10:24:30.396642: wfastcgi.py 3.0.0 started
+2022-10-13 10:24:30.397619: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-13 10:24:30.398633: wfastcgi.py 3.0.0 initializing
+2022-10-13 10:24:38.230641: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-13 10:24:38.231639: wfastcgi.py 3.0.0 initialized
+2022-10-17 07:55:07.886757: wfastcgi.py 3.0.0 started
+2022-10-17 07:55:07.887754: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-17 07:55:07.888794: wfastcgi.py 3.0.0 initializing
+2022-10-17 07:55:18.440482: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-17 07:55:18.441491: wfastcgi.py 3.0.0 initialized
+2022-10-17 08:05:20.286480: wfastcgi.py exiting because chatbotapi.py has changed, matching .*((\.py)|(\.config))$
+2022-10-17 08:05:20.288477: Running on_exit tasks
+2022-10-17 08:06:21.071508: wfastcgi.py 3.0.0 started
+2022-10-17 08:06:21.072476: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-17 08:06:21.073508: wfastcgi.py 3.0.0 initializing
+2022-10-17 08:06:27.071494: Error occurred while reading WSGI handler:
+
+Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\chatbotapi\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "C:\inetpub\wwwroot\chatbotapi\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "C:\inetpub\wwwroot\chatbotapi\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File "C:\inetpub\wwwroot\chatbotapi\.\chatbotapi.py", line 86, in <module>
+    resolution, unique_resolution, error_message = load_dataset("C:\\Users\\Kavin\\Documents\\IT_support_chatbot-master\\"
+  File "C:\inetpub\wwwroot\chatbotapi\.\chatbotapi.py", line 78, in load_dataset
+    df = pd.read_csv(file_input, encoding="latin1", names=["Error_Message", "Resolution"])
+  File "C:\Python\lib\site-packages\pandas\util\_decorators.py", line 311, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Python\lib\site-packages\pandas\io\parsers\readers.py", line 586, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "C:\Python\lib\site-packages\pandas\io\parsers\readers.py", line 482, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "C:\Python\lib\site-packages\pandas\io\parsers\readers.py", line 811, in __init__
+    self._engine = self._make_engine(self.engine)
+  File "C:\Python\lib\site-packages\pandas\io\parsers\readers.py", line 1040, in _make_engine
+    return mapping[engine](self.f, **self.options)  # type: ignore[call-arg]
+  File "C:\Python\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py", line 51, in __init__
+    self._open_handles(src, kwds)
+  File "C:\Python\lib\site-packages\pandas\io\parsers\base_parser.py", line 222, in _open_handles
+    self.handles = get_handle(
+  File "C:\Python\lib\site-packages\pandas\io\common.py", line 702, in get_handle
+    handle = open(
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\Kavin\\Documents\\IT_support_chatbot-master\\Datasets\\chatDataset_all.csv'
+
+
+StdOut: 
+
+StdErr: 
+2022-10-17 08:06:27.072500: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\chatbotapi\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "C:\inetpub\wwwroot\chatbotapi\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "C:\inetpub\wwwroot\chatbotapi\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File "C:\inetpub\wwwroot\chatbotapi\.\chatbotapi.py", line 86, in <module>
+    resolution, unique_resolution, error_message = load_dataset("C:\\Users\\Kavin\\Documents\\IT_support_chatbot-master\\"
+  File "C:\inetpub\wwwroot\chatbotapi\.\chatbotapi.py", line 78, in load_dataset
+    df = pd.read_csv(file_input, encoding="latin1", names=["Error_Message", "Resolution"])
+  File "C:\Python\lib\site-packages\pandas\util\_decorators.py", line 311, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Python\lib\site-packages\pandas\io\parsers\readers.py", line 586, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "C:\Python\lib\site-packages\pandas\io\parsers\readers.py", line 482, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "C:\Python\lib\site-packages\pandas\io\parsers\readers.py", line 811, in __init__
+    self._engine = self._make_engine(self.engine)
+  File "C:\Python\lib\site-packages\pandas\io\parsers\readers.py", line 1040, in _make_engine
+    return mapping[engine](self.f, **self.options)  # type: ignore[call-arg]
+  File "C:\Python\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py", line 51, in __init__
+    self._open_handles(src, kwds)
+  File "C:\Python\lib\site-packages\pandas\io\parsers\base_parser.py", line 222, in _open_handles
+    self.handles = get_handle(
+  File "C:\Python\lib\site-packages\pandas\io\common.py", line 702, in get_handle
+    handle = open(
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\Kavin\\Documents\\IT_support_chatbot-master\\Datasets\\chatDataset_all.csv'
+2022-10-17 08:06:27.073498: Running on_exit tasks
+2022-10-17 08:06:27.073498: wfastcgi.py 3.0.0 closed
+2022-10-17 08:10:25.495484: wfastcgi.py 3.0.0 started
+2022-10-17 08:10:25.496478: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-17 08:10:25.497485: wfastcgi.py 3.0.0 initializing
+2022-10-17 08:10:33.483485: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-17 08:10:33.484485: wfastcgi.py 3.0.0 initialized
+2022-10-17 08:23:30.434505: wfastcgi.py 3.0.0 started
+2022-10-17 08:23:30.434505: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-17 08:23:30.435546: wfastcgi.py 3.0.0 initializing
+2022-10-17 08:23:38.465500: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-17 08:23:38.466489: wfastcgi.py 3.0.0 initialized
+2022-10-17 08:24:38.998496: wfastcgi.py exiting because chatbotapi.py has changed, matching .*((\.py)|(\.config))$
+2022-10-17 08:24:39.000488: Running on_exit tasks
+2022-10-17 08:25:22.649495: wfastcgi.py 3.0.0 started
+2022-10-17 08:25:22.650497: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-17 08:25:22.651480: wfastcgi.py 3.0.0 initializing
+2022-10-17 08:25:30.661485: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-17 08:25:30.663535: wfastcgi.py 3.0.0 initialized
+2022-10-17 08:39:15.569486: wfastcgi.py 3.0.0 started
+2022-10-17 08:39:15.570477: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-17 08:39:15.571500: wfastcgi.py 3.0.0 initializing
+2022-10-17 08:39:23.468504: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-17 08:39:23.469517: wfastcgi.py 3.0.0 initialized
+2022-10-17 08:46:25.006151: wfastcgi.py 3.0.0 started
+2022-10-17 08:46:25.006151: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-17 08:46:25.007151: wfastcgi.py 3.0.0 initializing
+2022-10-17 08:46:32.956169: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-17 08:46:32.957154: wfastcgi.py 3.0.0 initialized
+2022-10-17 08:48:54.405603: wfastcgi.py exiting because chatbotapi.py has changed, matching .*((\.py)|(\.config))$
+2022-10-17 08:48:54.407618: Running on_exit tasks
+2022-10-17 08:49:38.233613: wfastcgi.py 3.0.0 started
+2022-10-17 08:49:38.233613: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-17 08:49:38.234599: wfastcgi.py 3.0.0 initializing
+2022-10-17 08:49:46.186633: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-17 08:49:46.187637: wfastcgi.py 3.0.0 initialized
+2022-10-17 08:51:21.201808: wfastcgi.py exiting because chatbotapi.py has changed, matching .*((\.py)|(\.config))$
+2022-10-17 08:51:21.203802: Running on_exit tasks
+2022-10-17 08:57:19.696778: wfastcgi.py 3.0.0 started
+2022-10-17 08:57:19.697769: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-17 08:57:19.698768: wfastcgi.py 3.0.0 initializing
+2022-10-17 08:57:27.665775: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-17 08:57:27.666779: wfastcgi.py 3.0.0 initialized
+2022-10-18 05:25:09.540486: wfastcgi.py 3.0.0 started
+2022-10-18 05:25:09.541446: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-18 05:25:09.542496: wfastcgi.py 3.0.0 initializing
+2022-10-18 05:25:19.451460: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-18 05:25:19.453430: wfastcgi.py 3.0.0 initialized
+2022-10-18 05:42:03.485200: wfastcgi.py 3.0.0 started
+2022-10-18 05:42:03.486200: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-18 05:42:03.487202: wfastcgi.py 3.0.0 initializing
+2022-10-18 05:42:18.273193: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-18 05:42:18.274198: wfastcgi.py 3.0.0 initialized
+2022-10-18 06:10:10.460487: wfastcgi.py 3.0.0 started
+2022-10-18 06:10:10.461638: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-18 06:10:10.462635: wfastcgi.py 3.0.0 initializing
+2022-10-18 06:10:20.825383: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-18 06:10:20.826420: wfastcgi.py 3.0.0 initialized
+2022-10-18 08:59:00.914345: wfastcgi.py 3.0.0 started
+2022-10-18 08:59:00.915316: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-18 08:59:00.916311: wfastcgi.py 3.0.0 initializing
+2022-10-18 08:59:09.285315: wfastcgi.py 3.0.0 started
+2022-10-18 08:59:09.286316: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-18 08:59:09.287315: wfastcgi.py 3.0.0 initializing
+2022-10-18 08:59:10.256320: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-18 08:59:10.257320: wfastcgi.py 3.0.0 initialized
+2022-10-18 08:59:18.610315: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-10-18 08:59:18.611315: wfastcgi.py 3.0.0 initialized
+2022-10-18 10:52:46.529890: wfastcgi.py 3.0.0 started
+2022-10-18 10:52:46.530863: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-18 10:52:46.531861: wfastcgi.py 3.0.0 initializing
+2022-11-08 08:18:44.520526: wfastcgi.py 3.0.0 started
+2022-11-08 08:18:44.521538: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-11-08 08:18:44.523535: wfastcgi.py 3.0.0 initializing
+2022-11-08 08:19:05.126841: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-11-08 08:19:05.127824: wfastcgi.py 3.0.0 initialized
+2022-11-30 08:39:08.480497: wfastcgi.py 3.0.0 started
+2022-11-30 08:39:08.481538: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-11-30 08:39:08.482505: wfastcgi.py 3.0.0 initializing
+2022-11-30 08:39:14.209501: wfastcgi.py 3.0.0 started
+2022-11-30 08:39:14.210493: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-11-30 08:39:14.211475: wfastcgi.py 3.0.0 initializing
+2022-11-30 08:39:18.990511: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-11-30 08:39:18.991480: wfastcgi.py 3.0.0 initialized
+2022-11-30 08:39:22.393494: wfastcgi.py will restart when files in C:\inetpub\wwwroot\chatbotapi\ are changed: .*((\.py)|(\.config))$
+2022-11-30 08:39:22.394470: wfastcgi.py 3.0.0 initialized
